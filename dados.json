@@ -218,6 +218,7 @@
     "LOJA DE CELULAR"
   ],
   "configuracoes": {
+    "logo_site": "logotipo/guia_sobralense_logo.svg",
     "slider_categorias_ativo": true,
     "busca_ia_ativa": false,
     "icone_google_ativo": true
