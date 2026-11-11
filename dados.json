@@ -91,6 +91,7 @@
     "Coração de Jesus",
     "Das Nações",
     "Distrito Industrial",
+    "Distrito Jaibaras",
     "Dom Expedito",
     "Dom José",
     "Domingos Olímpio",
@@ -221,7 +222,12 @@
     "logo_site": "logotipo/guia_sobralense_logo.svg",
     "slider_categorias_ativo": true,
     "busca_ia_ativa": false,
-    "icone_google_ativo": true
+    "icone_google_ativo": true,
+    "destaque_card_ativo": true,
+    "exibir_cliques_card": false,
+    "contador_online_ativo": false,
+    "atualizacao_mensal_automatica": true,
+    "ultimo_ciclo_mensal": ""
   },
   "situacoes": [
     "PENDENTE",
@@ -400,7 +406,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 3298,
+          "anterior": 3298,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "NORTH DOOR",
@@ -466,7 +494,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LEO ALVES - AR CONDICIONADO",
@@ -532,7 +573,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LAVANDERIA PIRAGIBE",
@@ -676,7 +730,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-31",
+          "mes": "2026-10",
+          "seguidores": 4265,
+          "anterior": 4265,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "IRON PUMP SUPLEMENTOS",
@@ -790,7 +866,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-31",
+          "mes": "2026-10",
+          "seguidores": 1348,
+          "anterior": 1348,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CIA SUPLEMENTOS",
@@ -934,7 +1032,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-31",
+          "mes": "2026-10",
+          "seguidores": 2349,
+          "anterior": 2349,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "NUTRI LEVE",
@@ -1073,7 +1193,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 599,
+          "anterior": 599,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DUBEM SUPLEMENTOS",
@@ -1139,7 +1281,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 7232,
+          "anterior": 7232,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DEKA BRINDES",
@@ -1288,7 +1452,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 4633,
+          "anterior": 4633,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ROSE BRINDES",
@@ -1432,7 +1618,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 10483,
+          "anterior": 10483,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "TECNOBRINDES",
@@ -1576,7 +1784,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 3932,
+          "anterior": 3932,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "FABRÍCIO CAPAS",
@@ -1797,7 +2027,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 43496,
+          "anterior": 43496,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ALEX VARIEDADES",
@@ -1812,10 +2064,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-06",
+      "data_verificacao": "2026-11-10",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "169859",
+      "seguidores_instagram": "169687",
       "horario_compartilhado": true,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -1867,7 +2119,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/t6mKzCUFbyNjhpvM6",
           "instagram": "",
-          "seguidores_instagram": "169859",
+          "seguidores_instagram": "169687",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -1911,7 +2163,37 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 169689,
+          "anterior": 169689,
+          "variacao": 0,
+          "percentual": 0
+        },
+        {
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 169687,
+          "anterior": 169689,
+          "variacao": -2,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SOBRAL ENVELOPAMENTOS",
@@ -1977,7 +2259,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 1403,
+          "anterior": 1403,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "FARMÁCIA RODOLFO 24 HORAS",
@@ -2091,7 +2395,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 15711,
+          "anterior": 15711,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PRADO FARMA",
@@ -2275,7 +2601,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 11270,
+          "anterior": 11270,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "FARMÁCIA BEM ESTAR",
@@ -2501,7 +2849,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 5706,
+          "anterior": 5706,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "FARMÁCIA CENTRAL",
@@ -2650,7 +3020,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 2410,
+          "anterior": 2410,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "FARMÁCIA FERNANDES",
@@ -2893,7 +3285,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 9385,
+          "anterior": 9385,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ACERTE GRÁFICA",
@@ -3057,7 +3471,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-29",
+          "mes": "2026-10",
+          "seguidores": 3100,
+          "anterior": 3100,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DAVI GRÁFICA",
@@ -3221,7 +3657,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 2022,
+          "anterior": 2022,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GRÁFICA DIGITAL NINJA",
@@ -3287,7 +3745,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GRÁFICA RAPIDEX",
@@ -3455,7 +3926,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 4905,
+          "anterior": 4905,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "NOVA GLOBAL GRÁFICA",
@@ -3706,7 +4199,31 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 4705,
+          "anterior": 4705,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 1,
+        "whatsapp": 0,
+        "instagram": 1,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {
+          "2026-11": 1
+        },
+        "ultimo_clique": "2026-11-10 20:16"
+      }
     },
     {
       "empresa": "PATO NET",
@@ -3870,7 +4387,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 6803,
+          "anterior": 6803,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SOBRAL INDÚSTRIA GRÁFICA",
@@ -3984,7 +4523,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 21660,
+          "anterior": 21660,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "VGRAFF",
@@ -4128,7 +4689,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 4247,
+          "anterior": 4247,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DESTAQUE GRAFIC",
@@ -4267,7 +4850,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 5153,
+          "anterior": 5153,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GRÁFICA CLEIDE",
@@ -4431,7 +5036,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 1152,
+          "anterior": 1152,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GRÁFICA IDEZ",
@@ -4570,7 +5197,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 803,
+          "anterior": 803,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "JN DIGITAL",
@@ -4636,7 +5285,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 533,
+          "anterior": 533,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MULT GRÁFICA",
@@ -4795,7 +5466,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 10375,
+          "anterior": 10375,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SOBRAL PRINT",
@@ -4939,7 +5632,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 2558,
+          "anterior": 2558,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "BIOFLEX",
@@ -5083,7 +5798,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 3022,
+          "anterior": 3022,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PAU BRASIL HOME CENTER",
@@ -5247,7 +5984,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 6538,
+          "anterior": 6538,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "BAIÔ CONSTRUÇÃO",
@@ -5391,7 +6150,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 1474,
+          "anterior": 1474,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASA ASSUNÇÃO",
@@ -5535,7 +6316,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 30322,
+          "anterior": 30322,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA DEOCLÉCIO",
@@ -5679,7 +6482,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 1577,
+          "anterior": 1577,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA DO TRABALHADOR",
@@ -5900,7 +6725,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 12465,
+          "anterior": 12465,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA FRAN FASHION",
@@ -6141,7 +6988,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 40388,
+          "anterior": 40388,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA JARY",
@@ -6285,7 +7154,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 2128,
+          "anterior": 2128,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA SOBRAL",
@@ -6459,7 +7350,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 7104,
+          "anterior": 7104,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICAS NO PREÇO",
@@ -6633,7 +7546,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 1677,
+          "anterior": 1677,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "RR ÓTICA",
@@ -6807,7 +7742,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 4671,
+          "anterior": 4671,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓCULOS & CIA",
@@ -6981,7 +7938,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 1021,
+          "anterior": 1021,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA BOM PREÇO",
@@ -7155,7 +8134,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 3363,
+          "anterior": 3363,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICAS DINIZ",
@@ -7376,7 +8377,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 16051,
+          "anterior": 16051,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA GOMES PRIME",
@@ -7550,7 +8573,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 1716,
+          "anterior": 1716,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA PRINCESA",
@@ -7724,7 +8769,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 12372,
+          "anterior": 12372,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASA DO CAMPO",
@@ -7868,7 +8935,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 8819,
+          "anterior": 8819,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SOBRAL PATAS",
@@ -8124,7 +9213,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 7166,
+          "anterior": 7166,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CENTRO DAS RAÇÕES",
@@ -8268,7 +9379,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 12386,
+          "anterior": 12386,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DELÍCIAS DO VAVÁ",
@@ -8382,7 +9515,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-04",
+          "mes": "2026-11",
+          "seguidores": 10100,
+          "anterior": 10100,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "BRUTAL FIT SUPLEMENTOS",
@@ -8496,7 +9651,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 7711,
+          "anterior": 7711,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "RUSH SUPLEMENTOS",
@@ -8610,7 +9787,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 2949,
+          "anterior": 2949,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ELITE SUPLEMENTOS",
@@ -8676,7 +9875,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 3385,
+          "anterior": 3385,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "NUTRIR VIDA SAUDÁVEL",
@@ -8820,7 +10041,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 3910,
+          "anterior": 3910,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "EVOX SUPLEMENTOS",
@@ -8886,7 +10129,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 4256,
+          "anterior": 4256,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CARNEIRO SUPLEMENTOS",
@@ -9030,7 +10295,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 28548,
+          "anterior": 28548,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "COMPLEXO BIOFIT",
@@ -9174,7 +10461,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 26039,
+          "anterior": 26039,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "M2 SUPLEMENTOS",
@@ -9323,7 +10632,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 2226,
+          "anterior": 2226,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "STRONG ACTION SUPLEMENTOS",
@@ -9467,7 +10798,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 8048,
+          "anterior": 8048,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "THE NUTRI STORE",
@@ -9482,10 +10835,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-02",
+      "data_verificacao": "2026-11-11",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "66876",
+      "seguidores_instagram": "66856",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -9498,34 +10851,64 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "20:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "20:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "20:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "20:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "20:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "14:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
@@ -9537,7 +10920,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/zA6siGSguTG75pS7A",
           "instagram": "",
-          "seguidores_instagram": "",
+          "seguidores_instagram": "66856",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -9611,7 +10994,37 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 66876,
+          "anterior": 66876,
+          "variacao": 0,
+          "percentual": 0
+        },
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 66856,
+          "anterior": 66876,
+          "variacao": -20,
+          "percentual": -0.03
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "VP FIT",
@@ -9755,7 +11168,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 9950,
+          "anterior": 9950,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ALPHA SUPLEMENTOS",
@@ -9821,7 +11256,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MAÇÃ SPORTS",
@@ -9935,7 +11383,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 4636,
+          "anterior": 4636,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "JW NUTRIFIT",
@@ -10079,7 +11549,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 4687,
+          "anterior": 4687,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "BEM ESTAR LIFE",
@@ -10223,7 +11715,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-30",
+          "mes": "2026-10",
+          "seguidores": 8350,
+          "anterior": 8350,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DR SHAPE",
@@ -10337,7 +11851,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 3977,
+          "anterior": 3977,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ZERO CALORIA",
@@ -10481,7 +12017,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 24214,
+          "anterior": 24214,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PK BRINDES",
@@ -10595,7 +12153,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 3909,
+          "anterior": 3909,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICAS WS",
@@ -10769,7 +12349,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 5758,
+          "anterior": 5758,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "INSTITUTO VISÃO SOLIDÁRIA",
@@ -10943,7 +12545,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 6863,
+          "anterior": 6863,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "VICENTINO TINTAS",
@@ -11117,7 +12741,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 10227,
+          "anterior": 10227,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICAS ESTER",
@@ -11291,7 +12937,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 4483,
+          "anterior": 4483,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LIARTE",
@@ -11455,7 +13123,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 9693,
+          "anterior": 9693,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SWEET DREAMS",
@@ -11629,7 +13319,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 20617,
+          "anterior": 20617,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AUTOESCOLA FILHO",
@@ -11773,7 +13485,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 1470,
+          "anterior": 1470,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "REI DO CELULAR",
@@ -11957,7 +13691,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 33965,
+          "anterior": 33965,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASAS ARRUDA DECOR",
@@ -12101,7 +13857,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 23714,
+          "anterior": 23714,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SENHORES DO ESPETO",
@@ -12275,7 +14053,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 5497,
+          "anterior": 5497,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AGÊNCIA KIP",
@@ -12414,7 +14214,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-30",
+          "mes": "2026-10",
+          "seguidores": 1124,
+          "anterior": 1124,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "COLOSSUS GYM",
@@ -12429,10 +14251,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "Empresa destualizada no Google Maps.",
-      "data_verificacao": "2026-11-04",
+      "data_verificacao": "2026-11-10",
       "google_maps": false,
       "avaliacoes_link": "",
-      "seguidores_instagram": "2735",
+      "seguidores_instagram": "2737",
       "horario_compartilhado": true,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -12445,42 +14267,172 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "05:30",
+              "fecha": "22:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "05:30",
+              "fecha": "22:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "05:30",
+              "fecha": "22:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "05:30",
+              "fecha": "22:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "05:30",
+              "fecha": "22:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "09:00",
+              "fecha": "13:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Junco",
+          "link": "https://maps.app.goo.gl/H1g41FVEq1fy2BZ1A",
+          "instagram": "",
+          "seguidores_instagram": "2737",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "05:30",
+                  "fecha": "22:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "05:30",
+                  "fecha": "22:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "05:30",
+                  "fecha": "22:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "05:30",
+                  "fecha": "22:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "05:30",
+                  "fecha": "22:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "09:00",
+                  "fecha": "13:00"
+                }
+              ]
+            }
+          }
+        }
+      ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 2737,
+          "anterior": 2737,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AUTOESCOLA ARRUDA",
@@ -12624,7 +14576,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-31",
+          "mes": "2026-10",
+          "seguidores": 9030,
+          "anterior": 9030,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DESENTUPIDORA SOBRAL",
@@ -12738,7 +14712,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-04",
+          "mes": "2026-11",
+          "seguidores": 1305,
+          "anterior": 1305,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MILON",
@@ -12922,7 +14918,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 4404,
+          "anterior": 4404,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ALEXSANDRO ACESSÓRIOS",
@@ -13066,7 +15084,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-30",
+          "mes": "2026-10",
+          "seguidores": 5956,
+          "anterior": 5956,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CF TURISMO",
@@ -13132,7 +15172,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 6606,
+          "anterior": 6606,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "OTTO CAR",
@@ -13306,7 +15368,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 378,
+          "anterior": 378,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AÇAÍ REI",
@@ -13701,7 +15785,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-25",
+          "mes": "2026-10",
+          "seguidores": 8842,
+          "anterior": 8842,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "POSTO VITÓRIA",
@@ -13885,7 +15991,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 3203,
+          "anterior": 3203,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "KING'S PIZZABURGUER",
@@ -14059,7 +16187,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 7854,
+          "anterior": 7854,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GABI GOURMET",
@@ -14208,7 +16358,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 32639,
+          "anterior": 32639,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GISBOM DISTRIBUIDORA",
@@ -14382,7 +16554,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 15275,
+          "anterior": 15275,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PONTUAL COMUNICAÇÃO VISUAL",
@@ -14586,7 +16780,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 7007,
+          "anterior": 7007,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MADEREIRA ALCÂNTARA",
@@ -14800,7 +17016,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 16399,
+          "anterior": 16399,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "OFICINA DA PIZZA",
@@ -14984,7 +17222,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 12673,
+          "anterior": 12673,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DECORAÇÕES DA JU",
@@ -15050,7 +17310,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "STÊNIO MOTOS",
@@ -15224,7 +17497,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 17239,
+          "anterior": 17239,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "BRICK'S BURGUER HOUSE",
@@ -15373,7 +17668,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 28811,
+          "anterior": 28811,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "TAKO",
@@ -15595,7 +17912,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 5224,
+          "anterior": 5224,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LED IMPORTS",
@@ -15661,7 +18000,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GALETO EXPRESS",
@@ -15805,7 +18157,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 6596,
+          "anterior": 6596,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AUTO SHOP CENTRO AUTOMOTIVO",
@@ -15949,7 +18323,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 2921,
+          "anterior": 2921,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PRINT VIP",
@@ -16015,7 +18411,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 7871,
+          "anterior": 7871,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "JB VIDRAÇARIA",
@@ -16129,7 +18547,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 2720,
+          "anterior": 2720,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PESCADO DO MAR",
@@ -16313,7 +18753,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 1684,
+          "anterior": 1684,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "HOLANDA MOTORS",
@@ -16487,7 +18949,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 10896,
+          "anterior": 10896,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LAVA JATO BR",
@@ -16601,7 +19085,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-07",
+          "mes": "2026-11",
+          "seguidores": 1160,
+          "anterior": 1160,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MACRO MÓVEIS PLANEJADOS",
@@ -16775,7 +19281,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 11133,
+          "anterior": 11133,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AUTOESCOLA CONQUISTA",
@@ -16919,7 +19447,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 1922,
+          "anterior": 1922,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "TAIS PAPELARIA PERSONALIZADA",
@@ -17083,7 +19633,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 5701,
+          "anterior": 5701,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AURY VARIEDADES",
@@ -17227,7 +19799,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 22785,
+          "anterior": 22785,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "IANQTOUR EXCURSÕES",
@@ -17293,7 +19887,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 9311,
+          "anterior": 9311,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASA DO CONSTRUTOR",
@@ -17452,7 +20068,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 2823,
+          "anterior": 2823,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "FINO SABOR GOURMET",
@@ -17518,7 +20156,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ARAGUAIA HOME CENTER",
@@ -17662,7 +20313,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 21706,
+          "anterior": 21706,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GATEWAY",
@@ -17806,7 +20479,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 2286,
+          "anterior": 2286,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PRIME SERVICE",
@@ -17980,7 +20675,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 1140,
+          "anterior": 1140,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LARA COSMÉTICOS",
@@ -18154,7 +20871,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 3384,
+          "anterior": 3384,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "VM GRÁFICA E PAPELARIA",
@@ -18298,7 +21037,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 3765,
+          "anterior": 3765,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "JEAN DA PICANHA",
@@ -18412,7 +21173,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 17678,
+          "anterior": 17678,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AMO MAKE SOBRAL",
@@ -18427,10 +21210,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-10-31",
+      "data_verificacao": "2026-11-10",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "38047",
+      "seguidores_instagram": "38073",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -18443,34 +21226,64 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "17:30"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "17:30"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "17:30"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "17:30"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "17:30"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "14:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
@@ -18482,7 +21295,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/X8N48CA1tFb8veBc9",
           "instagram": "",
-          "seguidores_instagram": "",
+          "seguidores_instagram": "38073",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -18556,7 +21369,39 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-31",
+          "mes": "2026-10",
+          "seguidores": 38047,
+          "anterior": 38047,
+          "variacao": 0,
+          "percentual": 0
+        },
+        {
+          "data_primeira": "2026-10-31",
+          "primeira_seguidores": 38073,
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 38073,
+          "anterior": 38047,
+          "variacao": 26,
+          "percentual": 0.07
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "RE MÓVEIS E ELETROS",
@@ -18730,7 +21575,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 2753,
+          "anterior": 2753,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ARRUDA MÓVEIS E COLCHÕES",
@@ -18874,7 +21741,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 28556,
+          "anterior": 28556,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "EDENHA DECOR CONCEITO",
@@ -19018,7 +21907,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-04",
+          "mes": "2026-11",
+          "seguidores": 25406,
+          "anterior": 25406,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ICLOCK",
@@ -19162,7 +22073,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 17525,
+          "anterior": 17525,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "BELCHIOR NET",
@@ -19276,7 +22209,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 2136,
+          "anterior": 2136,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "OLD CAVE",
@@ -19532,7 +22487,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 9178,
+          "anterior": 9178,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "NO PRECIM BURGUER",
@@ -19598,7 +22575,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DIGITAL STORE SOBRAL",
@@ -19742,7 +22732,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-04",
+          "mes": "2026-11",
+          "seguidores": 18850,
+          "anterior": 18850,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASA DO MARCENEIRO",
@@ -19963,7 +22975,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 8126,
+          "anterior": 8126,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GP GRÁFICA",
@@ -20107,7 +23141,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 2988,
+          "anterior": 2988,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MUNDO PLUS",
@@ -20281,7 +23337,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 21535,
+          "anterior": 21535,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ZAYNE FASHION",
@@ -20347,7 +23425,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CLOSET MODERNO",
@@ -20491,7 +23582,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-03",
+          "mes": "2026-11",
+          "seguidores": 18593,
+          "anterior": 18593,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SARABLESS",
@@ -20665,7 +23778,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 66200,
+          "anterior": 66200,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "KI ONDA",
@@ -20839,7 +23974,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 13636,
+          "anterior": 13636,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DRAGON TECH",
@@ -20905,7 +24062,29 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-04",
+          "mes": "2026-11",
+          "seguidores": 3735,
+          "anterior": 3735,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "VIDRAÇARIA FÊNIX",
@@ -21079,7 +24258,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 2835,
+          "anterior": 2835,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "JG VIDROS E ALUMÍNIOS",
@@ -21293,7 +24494,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-06",
+          "mes": "2026-11",
+          "seguidores": 2409,
+          "anterior": 2409,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SEGREDOS DE AMOR",
@@ -21467,7 +24690,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 11493,
+          "anterior": 11493,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MEU DESEJO SEX SHOP",
@@ -21581,7 +24826,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 16248,
+          "anterior": 16248,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SOVEL AUTOMÓVEIS",
@@ -21755,7 +25022,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-08",
+          "mes": "2026-11",
+          "seguidores": 5130,
+          "anterior": 5130,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASA DO CARRO MULTIMARCAS",
@@ -21869,7 +25158,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 23977,
+          "anterior": 23977,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "UNICAR MULTIMARCAS",
@@ -22043,7 +25354,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 11835,
+          "anterior": 11835,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "NEWLAND TOYOTA",
@@ -22217,7 +25550,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 82034,
+          "anterior": 82034,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DINDA VEÍCULOS",
@@ -22283,7 +25638,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "TF-CAR",
@@ -22457,7 +25825,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 3751,
+          "anterior": 3751,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PAPA AFRICA IMPORTS",
@@ -22641,7 +26031,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 33482,
+          "anterior": 33482,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SD COUROS",
@@ -22815,7 +26227,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 39828,
+          "anterior": 39828,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AREZZO",
@@ -22830,10 +26264,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-06",
+      "data_verificacao": "2026-11-10",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "274644",
+      "seguidores_instagram": "274661",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -22920,7 +26354,7 @@
           "bairro": "Dom Expedito",
           "link": "https://maps.app.goo.gl/pdHPyAqR7KEpVWvq9",
           "instagram": "",
-          "seguidores_instagram": "274644",
+          "seguidores_instagram": "274661",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -22999,7 +26433,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 274661,
+          "anterior": 274661,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SANTO ANTÔNIO CALÇADOS",
@@ -23250,7 +26706,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 50705,
+          "anterior": 50705,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SOBRE SALTO",
@@ -23424,7 +26902,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 3112,
+          "anterior": 3112,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "A PREFERIDA",
@@ -23439,10 +26939,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "Acrescentado apenas 1 loja.\nVerificar os outros endereços e horários das lojas.",
-      "data_verificacao": "2026-11-01",
+      "data_verificacao": "2026-11-10",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "62000",
+      "seguidores_instagram": "62256",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -23455,34 +26955,64 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "14:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
@@ -23494,7 +27024,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/Fq69umyz2er4Bp16A",
           "instagram": "",
-          "seguidores_instagram": "",
+          "seguidores_instagram": "62256",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -23568,7 +27098,37 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 62000,
+          "anterior": 62000,
+          "variacao": 0,
+          "percentual": 0
+        },
+        {
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 62256,
+          "anterior": 62000,
+          "variacao": 256,
+          "percentual": 0.41
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "RAMLIVE",
@@ -23583,10 +27143,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-09",
+      "data_verificacao": "2026-11-10",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "141178",
+      "seguidores_instagram": "141187",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -23673,7 +27233,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/mjxbBuBR1YxMPE64A",
           "instagram": "",
-          "seguidores_instagram": "141178",
+          "seguidores_instagram": "141187",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -23755,7 +27315,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/e2ZBXGwDh2XmW7af7",
           "instagram": "",
-          "seguidores_instagram": "141178",
+          "seguidores_instagram": "141187",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -23829,7 +27389,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 141187,
+          "anterior": 141187,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ANA LUZ",
@@ -23943,7 +27525,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 31274,
+          "anterior": 31274,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AUGE MOTOS",
@@ -24087,7 +27691,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-01",
+          "mes": "2026-11",
+          "seguidores": 49657,
+          "anterior": 49657,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "GINKANA MOTOS",
@@ -24261,7 +27887,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 11200,
+          "anterior": 11200,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "TOCA MOTOS",
@@ -24327,7 +27975,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASA DAS MOTOS MULTIMARCAS",
@@ -24441,7 +28102,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-02",
+          "mes": "2026-11",
+          "seguidores": 7139,
+          "anterior": 7139,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ELITE EDUCAÇÃO",
@@ -24585,7 +28268,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-05",
+          "mes": "2026-11",
+          "seguidores": 10926,
+          "anterior": 10926,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ÓTICA DE TODOS",
@@ -24759,7 +28464,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 1243,
+          "anterior": 1243,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DR. APPLE",
@@ -24903,7 +28630,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-04",
+          "mes": "2026-11",
+          "seguidores": 15925,
+          "anterior": 15925,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "AÇAÍ DO PRIMO",
@@ -25052,7 +28801,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-27",
+          "mes": "2026-10",
+          "seguidores": 1876,
+          "anterior": 1876,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "APPLE EXPRESS",
@@ -25118,7 +28889,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "KI LIMPO",
@@ -25184,7 +28968,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "VIESEN",
@@ -25250,7 +29047,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PRO LIMPP",
@@ -25316,7 +29126,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "FB SUPLEMENTOS",
@@ -25382,7 +29205,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "KRATOS SUPLEMENTOS",
@@ -25448,7 +29284,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "BARATTO SUPLEMENTS",
@@ -25514,7 +29363,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "RR STORE",
@@ -25580,7 +29442,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DAMASSA SUPLEMENTOS",
@@ -25646,7 +29521,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SM JOTAS",
@@ -25712,7 +29600,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "PLANOREN",
@@ -25778,7 +29679,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "COOPER MÓVEIS",
@@ -25844,7 +29758,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LUMARI",
@@ -25910,7 +29837,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "DESSAN",
@@ -25976,7 +29916,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "HOME DECOR",
@@ -26042,7 +29995,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ANDERSON TALENTOS",
@@ -26108,7 +30074,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CENTRAL MOTOS",
@@ -26174,7 +30153,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "WENDER MOTOS",
@@ -26240,7 +30232,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "COMERCIAL JC CONSTRUÇÕES",
@@ -26306,7 +30311,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "3K ELÉTRICOS",
@@ -26450,7 +30468,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-10-27",
+          "mes": "2026-10",
+          "seguidores": 2163,
+          "anterior": 2163,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "LOJÃO DAS CONSTRUÇÕES",
@@ -26516,7 +30556,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CASARÃO DAS TINTAS",
@@ -26582,7 +30635,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CIDADE NOVA CONSTRUÇÕES",
@@ -26648,7 +30714,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "MORAES HIDRÁULICA E ELÉTRICA",
@@ -26714,7 +30793,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SOBRAL FILTROS",
@@ -26780,7 +30872,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ULTRA FIBRA",
@@ -26846,7 +30951,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "NOSSA NET TELECOMUNICAÇÕES",
@@ -26912,7 +31030,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "CM NET",
@@ -26978,7 +31109,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "SG",
@@ -27044,7 +31188,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "UNIÃO",
@@ -27110,7 +31267,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ELEVEN",
@@ -27176,7 +31346,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "ALLUMIAR",
@@ -27390,7 +31573,29 @@
         }
       ],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-09",
+          "mes": "2026-11",
+          "seguidores": 13531,
+          "anterior": 13531,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "HECON",
@@ -27456,7 +31661,20 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     },
     {
       "empresa": "RELUZ",
@@ -27522,7 +31740,216 @@
       "facebook": "",
       "localizacoes": [],
       "bairro": "",
-      "localizacao": ""
+      "localizacao": "",
+      "historico_seguidores": [],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
+    },
+    {
+      "empresa": "ALICE ARTELIER",
+      "categoria_1": "GRÁFICA",
+      "categoria_2": "BRINDES",
+      "categoria_3": "",
+      "situacao": "POSTADO",
+      "instagram": "https://www.instagram.com/aliceartelier",
+      "logo": "empresas/alice_artelier.webp",
+      "descricao": "Mimos e personalizados.",
+      "palavras_chave": "gráfica, gráfica rápida, impressão digital, impressão offset, comunicação visual, gráfica expressa, serviço gráfico, cartões de visita, panfletos, folhetos, flyers, folders, banners, lonas, adesivos, adesivo perfurado, rótulos, etiquetas, tags, blocos de notas, talões de pedido, comandas, envelopes, pastas personalizadas, crachás, cordões para crachá, convites, convites de casamento, cardápios, brindes personalizados, canetas personalizadas, cadernos, agendas, carimbos, encadernação, plastificação, corte e vinco, sublimação, plotagem, faixas, brindes, presentes personalizados, lembrancinhas, brindes corporativos, brindes para empresas, artigos personalizados, canecas personalizadas, canecas de porcelana, caneca de chopp, copos personalizados, copo twister, copo long drink, copos stanley personalizados, tirantes, squeezes, garrafas personalizadas, chaveiros personalizados, mochilas personalizadas, sacolas ecobag, ecobags, bonés personalizados, camisetas personalizadas, blocos de anotações, cadernos personalizados, agendas personalizadas, agendas corporativas, canetas de metal, kits corporativos, kits de boas-vindas, kit onboarding, pen drives personalizados, power banks personalizados, nécessaires personalizadas, almofadas personalizadas, taças personalizadas, brindes promocionais, brindes para eventos, lembrancinhas de aniversário, lembrancinhas de casamento, mimos para clientes",
+      "palavras_chave_personalizadas": "",
+      "info_ia": "",
+      "informacoes_investigar": "",
+      "data_verificacao": "2026-11-10",
+      "google_maps": true,
+      "avaliacoes_link": "",
+      "seguidores_instagram": "965",
+      "horario_compartilhado": false,
+      "instagram_compartilhado": true,
+      "whatsapp_compartilhado": true,
+      "site_compartilhado": true,
+      "facebook_compartilhado": true,
+      "horario_funcionamento": {
+        "domingo": {
+          "aberto": false,
+          "vinte_quatro_horas": false,
+          "periodos": []
+        },
+        "segunda": {
+          "aberto": true,
+          "vinte_quatro_horas": false,
+          "periodos": [
+            {
+              "abre": "09:00",
+              "fecha": "17:00"
+            }
+          ]
+        },
+        "terca": {
+          "aberto": true,
+          "vinte_quatro_horas": false,
+          "periodos": [
+            {
+              "abre": "09:00",
+              "fecha": "17:00"
+            }
+          ]
+        },
+        "quarta": {
+          "aberto": true,
+          "vinte_quatro_horas": false,
+          "periodos": [
+            {
+              "abre": "09:00",
+              "fecha": "17:00"
+            }
+          ]
+        },
+        "quinta": {
+          "aberto": true,
+          "vinte_quatro_horas": false,
+          "periodos": [
+            {
+              "abre": "09:00",
+              "fecha": "17:00"
+            }
+          ]
+        },
+        "sexta": {
+          "aberto": true,
+          "vinte_quatro_horas": false,
+          "periodos": [
+            {
+              "abre": "09:00",
+              "fecha": "17:00"
+            }
+          ]
+        },
+        "sabado": {
+          "aberto": true,
+          "vinte_quatro_horas": false,
+          "periodos": [
+            {
+              "abre": "09:00",
+              "fecha": "13:00"
+            }
+          ]
+        }
+      },
+      "whatsapp": "",
+      "site": "",
+      "facebook": "",
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Distrito Jaibaras",
+          "link": "https://maps.app.goo.gl/DNosTtDXxbxfePCZ8",
+          "instagram": "",
+          "seguidores_instagram": "965",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "09:00",
+                  "fecha": "17:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "09:00",
+                  "fecha": "17:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "09:00",
+                  "fecha": "17:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "09:00",
+                  "fecha": "17:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "09:00",
+                  "fecha": "17:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "09:00",
+                  "fecha": "13:00"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "bairro": "",
+      "localizacao": "",
+      "historico_seguidores": [
+        {
+          "data": "2026-11-10",
+          "mes": "2026-11",
+          "seguidores": 965,
+          "anterior": 965,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
+      "cliques": {
+        "total": 0,
+        "whatsapp": 0,
+        "instagram": 0,
+        "localizacao": 0,
+        "google": 0,
+        "site": 0,
+        "facebook": 0,
+        "avaliacoes": 0,
+        "por_mes": {},
+        "ultimo_clique": ""
+      }
     }
   ]
 }

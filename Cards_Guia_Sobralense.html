@@ -104,6 +104,54 @@ body{padding:0}.aurora{position:fixed;inset:0;pointer-events:none;overflow:hidde
 .site-nav a.nav-link:hover{color:#fff;background:rgba(255,255,255,.05);border-color:var(--border)}
 .site-nav a.nav-link.active{color:#fff;background:linear-gradient(135deg,rgba(57,135,229,.22),rgba(156,143,242,.18));border-color:#3987e566;box-shadow:0 6px 20px rgba(57,135,229,.15)}
 .mobile-menu-btn,.mobile-drawer,.mobile-drawer-backdrop{display:none}
+/* Contador de Pessoas Online */
+.online-counter-badge{display:inline-flex;align-items:center;gap:8px;padding:7px 14px;border-radius:999px;background:rgba(61,220,155,.09);border:1px solid rgba(61,220,155,.32);color:#d7ffee;font:600 .74rem Inter,system-ui,sans-serif;letter-spacing:.01em;margin:0 auto 10px;box-shadow:0 6px 20px rgba(61,220,155,.1)}
+.online-counter-badge[hidden]{display:none!important}
+.online-counter-dot{width:8px;height:8px;border-radius:50%;background:#3ddc9b;box-shadow:0 0 10px #3ddc9b;animation:onlinePulse 2s ease-in-out infinite;flex-shrink:0}
+@keyframes onlinePulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.28);opacity:.65}}
+/* Logo clicável nos cards & Modal de Destaque Expandido */
+.dir-logo-wrap{cursor:pointer;transition:transform .22s cubic-bezier(.22,1,.36,1)}
+.dir-card:hover .dir-logo-wrap{transform:scale(1.02)}
+.dir-logo-wrap:active{transform:scale(.97)}
+body.spotlight-disabled .dir-logo-wrap{cursor:default;transform:none!important}
+.card-spotlight-backdrop{position:fixed;inset:0;z-index:250;display:grid;place-items:center;padding:20px 16px;background:rgba(4,7,14,.62);backdrop-filter:blur(14px) saturate(130%);-webkit-backdrop-filter:blur(14px) saturate(130%);opacity:0;visibility:hidden;pointer-events:none;transition:opacity .32s cubic-bezier(.22,1,.36,1),visibility .32s ease;overflow-y:auto}
+.card-spotlight-backdrop.open{opacity:1;visibility:visible;pointer-events:auto}
+.card-spotlight-wrap{width:100%;max-width:440px;margin:auto;transform:scale(.88) translateY(18px);opacity:0;transition:transform .34s cubic-bezier(.22,1,.36,1),opacity .28s ease}
+.card-spotlight-backdrop.open .card-spotlight-wrap{transform:scale(1) translateY(0);opacity:1}
+.card-spotlight-wrap .dir-card{border-radius:26px;border:1.5px solid rgba(57,135,229,.55);background:linear-gradient(165deg,rgba(24,34,56,.96),rgba(9,13,22,.98));box-shadow:0 32px 80px -15px rgba(0,0,0,.92),0 0 50px rgba(57,135,229,.22)}
+.card-spotlight-wrap .dir-top{padding:18px 20px 0}
+.card-spotlight-wrap .card-category{font-size:.66rem!important;padding:6px 12px!important;max-width:calc(100% - 24px)}
+.card-spotlight-wrap .dir-logo-wrap{width:min(240px,68%);margin:12px auto 8px;position:relative}
+.card-spotlight-hint{text-align:center;font-size:.66rem;color:var(--mute);margin:-2px auto 6px;letter-spacing:.02em}
+.card-spotlight-wrap .dir-body{padding:8px 22px 0}
+.card-spotlight-wrap .dir-name{font-size:1.32rem!important;min-height:0!important;-webkit-line-clamp:unset!important}
+.card-spotlight-wrap .dir-description{font-size:.82rem!important;line-height:1.6!important;-webkit-line-clamp:unset!important;max-width:100%;margin-top:8px}
+.card-spotlight-wrap .dir-neighborhood,.card-spotlight-wrap .dir-open-status{font-size:.76rem!important;margin-top:8px!important}
+.card-spotlight-wrap .card-social-proof{font-size:.76rem!important;margin-top:10px!important;gap:14px!important}
+.card-spotlight-wrap .dir-links{padding:16px 20px 20px!important;gap:10px!important}
+.card-spotlight-wrap .dir-link{width:38px!important;height:38px!important;border-radius:12px!important}
+.card-spotlight-wrap .dir-link svg{width:18px!important;height:18px!important}
+.spotlight-metrics{margin:14px 0 2px;padding:13px 14px;border-radius:16px;background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.1);text-align:left}
+.spotlight-metrics-head{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;margin-bottom:8px;font-size:.62rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#8ebcff}
+.spotlight-update-date{font-weight:600;letter-spacing:.02em;text-transform:none;color:var(--soft);font-size:.64rem}
+.spotlight-update-date b{color:#fff;font-family:"JetBrains Mono",monospace}
+.spotlight-compare-bar{display:flex;align-items:center;justify-content:space-between;gap:6px;flex-wrap:wrap;padding:7px 10px;margin-bottom:10px;border-radius:10px;background:rgba(57,135,229,.09);border:1px solid rgba(57,135,229,.24);font-size:.63rem;color:var(--soft)}
+.spotlight-compare-bar b{color:#fff;font-family:"JetBrains Mono",monospace}
+.spotlight-compare-arrow{color:#78aef4;font-weight:800}
+.spotlight-metrics-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.spotlight-metric-box{padding:10px 8px;border-radius:12px;background:rgba(7,10,16,.55);border:1px solid rgba(255,255,255,.07);text-align:center;display:flex;flex-direction:column;justify-content:center;gap:3px}
+.spotlight-metric-val{font:800 .98rem "Space Grotesk",sans-serif;color:#fff;letter-spacing:-.02em}
+.spotlight-metric-val.is-up{color:#3ddc9b}
+.spotlight-metric-val.is-down{color:#ff8585}
+.spotlight-metric-val.is-blue{color:#78aef4}
+.spotlight-metric-lbl{font-size:.6rem;font-weight:600;color:var(--soft);line-height:1.25}
+@media(max-width:480px){
+  .card-spotlight-wrap{max-width:96vw}
+  .card-spotlight-wrap .dir-logo-wrap{width:min(195px,62%)}
+  .card-spotlight-wrap .dir-body{padding:6px 16px 0}
+  .spotlight-metrics-grid{gap:6px}
+  .spotlight-metric-val{font-size:.88rem}
+}
 .site-page[hidden]{display:none!important}
 .page-section-hero{text-align:center;max-width:820px;margin:8px auto 34px;padding:8px 0 0}
 .page-section-hero .eyebrow{display:inline-block;padding:6px 14px;border-radius:999px;background:rgba(57,135,229,.12);border:1px solid rgba(57,135,229,.3);color:#8ebcff;font-size:.64rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;margin-bottom:12px}
@@ -223,7 +271,7 @@ body{padding:0}.aurora{position:fixed;inset:0;pointer-events:none;overflow:hidde
 </aside>
 <div class="shell"><header class="topbar" id="inicio"><button type="button" class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Abrir menu" aria-expanded="false" aria-controls="mobileDrawer"><svg viewBox="0 0 24 24" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/></svg></button><a href="#inicio" class="brand" id="siteBrandLink" data-nav-page="home" aria-label="Guia Sobralense - Início"><img id="siteBrandLogo" class="site-brand-logo js-site-logo" src="logotipo/guia_sobralense_logo.svg" alt="Guia Sobralense" onerror="this.style.display='none';document.getElementById('siteBrandFallback').style.display='flex'"><div id="siteBrandFallback" class="brand-fallback" style="display:none"><div class="mark">✦</div><div>Guia Sobralense<small>O comércio da nossa cidade</small></div></div></a><nav class="site-nav" aria-label="Menu principal"><a href="#inicio" class="nav-link active" data-nav-page="home">Início</a><a href="#pagina-categorias" class="nav-link" data-nav-page="categories">Categorias</a><a href="#planos" class="nav-link" data-nav-page="pricing">Preços e Planos</a><a href="#privacidade" class="nav-link" data-nav-page="privacy">Política de Privacidade</a></nav></header>
 <div id="pageHome" class="site-page">
-<section class="hero"><h1 class="hero-title">Descubra negócios locais e conecte-se com eles</h1><div class="search-mode" style="display:none" role="group" aria-label="Modo de busca"><button type="button" class="mode-btn active" id="normalMode" aria-pressed="true">⌕ Busca normal</button><button type="button" class="mode-btn" id="aiMode" aria-pressed="false">✦ Buscar com IA (teste)</button></div><div class="tools"><div class="search"><input id="q" placeholder="O que você está procurando?" autocomplete="off" aria-label="Buscar empresas"><span>⌕</span></div><button type="button" class="search-action" id="runAi">Encontrar empresas</button><select id="cols" aria-label="Cards por linha"><option value="4">4 por linha</option><option value="5">5 por linha</option><option value="6">6 por linha</option></select><button class="back" id="openData" type="button">📂 Abrir dados.json</button><input id="jsonFile" type="file" accept=".json,application/json" hidden></div><div class="assistant-box" id="assistantBox" aria-live="polite"><div class="assistant-title"><span>✦</span><div>Assistente do Guia</div></div><div class="assistant-message" id="assistantMessage"></div><div class="assistant-tags" id="assistantTags"></div><div class="assistant-note">IA local com Ollama · As sugestões usam apenas empresas publicadas e informações cadastradas no Guia.</div></div><div class="category-slider-wrap" id="categorySliderWrap" hidden><button type="button" class="slider-btn prev" id="sliderPrev" aria-label="Rolar para esquerda">‹</button><div class="category-slider" id="categorySlider" role="region" aria-label="Categorias em destaque"></div><button type="button" class="slider-btn next" id="sliderNext" aria-label="Rolar para direita">›</button></div></section>
+<section class="hero"><div class="online-counter-badge" id="onlineCounterBadge" hidden aria-live="polite"><span class="online-counter-dot"></span><span id="onlineCounterText">1 pessoa online agora</span></div><h1 class="hero-title">Descubra negócios locais e conecte-se com eles</h1><div class="search-mode" style="display:none" role="group" aria-label="Modo de busca"><button type="button" class="mode-btn active" id="normalMode" aria-pressed="true">⌕ Busca normal</button><button type="button" class="mode-btn" id="aiMode" aria-pressed="false">✦ Buscar com IA (teste)</button></div><div class="tools"><div class="search"><input id="q" placeholder="O que você está procurando?" autocomplete="off" aria-label="Buscar empresas"><span>⌕</span></div><button type="button" class="search-action" id="runAi">Encontrar empresas</button><select id="cols" aria-label="Cards por linha"><option value="4">4 por linha</option><option value="5">5 por linha</option><option value="6">6 por linha</option></select><button class="back" id="openData" type="button">📂 Abrir dados.json</button><input id="jsonFile" type="file" accept=".json,application/json" hidden></div><div class="assistant-box" id="assistantBox" aria-live="polite"><div class="assistant-title"><span>✦</span><div>Assistente do Guia</div></div><div class="assistant-message" id="assistantMessage"></div><div class="assistant-tags" id="assistantTags"></div><div class="assistant-note">IA local com Ollama · As sugestões usam apenas empresas publicadas e informações cadastradas no Guia.</div></div><div class="category-slider-wrap" id="categorySliderWrap" hidden><button type="button" class="slider-btn prev" id="sliderPrev" aria-label="Rolar para esquerda">‹</button><div class="category-slider" id="categorySlider" role="region" aria-label="Categorias em destaque"></div><button type="button" class="slider-btn next" id="sliderNext" aria-label="Rolar para direita">›</button></div></section>
 <div class="filter-toggle-wrap">
   <button type="button" class="btn-toggle-filters" id="toggleFiltersBtn" aria-expanded="false" aria-controls="filtersPanel">
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z"/></svg>
@@ -232,7 +280,7 @@ body{padding:0}.aurora{position:fixed;inset:0;pointer-events:none;overflow:hidde
     <span class="filter-chevron" id="filterChevron">▾</span>
   </button>
 </div>
-<div class="card-filters" id="filtersPanel" hidden><label>Categoria<select id="cat" aria-label="Filtrar por categoria"><option value="">Todas as categorias</option></select></label><label>Ordenar<select id="sort" aria-label="Ordenar empresas"><option value="name">Nome (A - Z)</option><option value="recent">Mais Recente</option><option value="random">Aleatório</option><option value="followers">Seguidores</option></select></label><label>Disponibilidade<select id="openFilter"><option value="">Todas as empresas</option><option value="open">Abertos agora</option></select></label><label>Bairro<select id="neighborhoodFilter"><option value="">Todos os bairros</option></select></label><button type="button" class="btn-clear-filters" id="clearFilters" title="Limpar todos os filtros"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>Limpar filtros</button></div>
+<div class="card-filters" id="filtersPanel" hidden><label>Categoria<select id="cat" aria-label="Filtrar por categoria"><option value="">Todas as categorias</option></select></label><label>Ordenar<select id="sort" aria-label="Ordenar empresas"><option value="name">Nome (A - Z)</option><option value="recent">Mais Recente</option><option value="random">Aleatório</option><option value="followers">Seguidores</option></select></label><label>Disponibilidade<select id="openFilter"><option value="">Todas as empresas</option><option value="open">Abertos agora</option></select></label><label>Bairro/Distrito<select id="neighborhoodFilter"><option value="">Todos os bairros/distritos</option></select></label><button type="button" class="btn-clear-filters" id="clearFilters" title="Limpar todos os filtros"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>Limpar filtros</button></div>
 <div class="listing-count-wrap" id="categorias"><div class="meta" id="count">0 empresas encontradas</div></div>
 <main id="grid" class="grid"></main>
 </div>
@@ -404,8 +452,11 @@ body{padding:0}.aurora{position:fixed;inset:0;pointer-events:none;overflow:hidde
 </section>
 
 <div class="footer">Guia Sobralense · O comércio da nossa cidade em um só lugar</div></div>
+<div class="card-spotlight-backdrop" id="cardSpotlightBackdrop" aria-hidden="true">
+  <div class="card-spotlight-wrap" id="cardSpotlightWrap" role="dialog" aria-modal="true" aria-label="Detalhes da empresa"></div>
+</div>
 <script>
-let DATA={categorias:[],icones_categorias:{},categorias_slider:[],configuracoes:{logo_site:'logotipo/guia_sobralense_logo.svg',slider_categorias_ativo:true,busca_ia_ativa:false,icone_google_ativo:true},situacoes:[],empresas:[]};
+let DATA={categorias:[],icones_categorias:{},categorias_slider:[],configuracoes:{logo_site:'logotipo/guia_sobralense_logo.svg',slider_categorias_ativo:true,busca_ia_ativa:false,icone_google_ativo:true,destaque_card_ativo:true,exibir_cliques_card:true,contador_online_ativo:true},situacoes:[],empresas:[]};
 const $=id=>document.getElementById(id), esc=x=>String(x??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 function adjustCategoryBadge(el){if(!el)return;el.classList.remove('is-long','is-xl');const parent=el.parentElement;if(!parent)return;const avail=parent.clientWidth-20;if(avail<=40)return;if(el.scrollWidth>avail*0.92){el.classList.add('is-long');if(el.scrollWidth>avail){el.classList.remove('is-long');el.classList.add('is-xl')}}}
 function adjustAllCategoryBadges(){document.querySelectorAll('.card-category').forEach(adjustCategoryBadge)}
@@ -417,7 +468,7 @@ const DAYS=[['domingo','Domingo'],['segunda','Segunda-feira'],['terca','Terça-f
 function emptySchedule(){return Object.fromEntries(DAYS.map(([k])=>[k,{aberto:false,vinte_quatro_horas:false,periodos:[]}]))}
 function normalizeSchedule(raw){let s=raw;if(typeof s==='string'){try{s=JSON.parse(s)}catch(e){return emptySchedule()}}const out=emptySchedule();if(!s||typeof s!=='object')return out;DAYS.forEach(([k])=>{const day=s[k];if(!day||typeof day!=='object')return;out[k]={aberto:!!day.aberto,vinte_quatro_horas:!!(day.vinte_quatro_horas||day.aberto_24_horas),periodos:Array.isArray(day.periodos)?day.periodos.filter(p=>p&&p.abre&&p.fecha).map(p=>({abre:String(p.abre),fecha:String(p.fecha)})):[]};if(out[k].vinte_quatro_horas)out[k].aberto=true});return out}
 function normalizeLocations(e){let list=Array.isArray(e?.localizacoes)?e.localizacoes:[];list=list.map((x)=>({nome:String(x?.nome??x?.nome_unidade??'').trim(),bairro:String(x?.bairro||'').trim(),link:String(x?.link||x?.localizacao||'').trim(),instagram:String(x?.instagram||'').trim(),whatsapp:String(x?.whatsapp||'').trim(),site:String(x?.site||'').trim(),facebook:String(x?.facebook||'').trim(),horario_funcionamento:normalizeSchedule(x?.horario_funcionamento)})).filter(x=>x.nome||x.bairro||x.link||x.instagram||x.whatsapp||x.site);if(!list.length&&(e?.bairro||e?.localizacao))list=[{nome:'',bairro:String(e.bairro||'').trim(),link:String(e.localizacao||'').trim(),instagram:'',whatsapp:'',site:'',horario_funcionamento:normalizeSchedule(e.horario_funcionamento)}];return list.slice(0,5)}
-function norm(x){return{categorias:[...new Set((x.categorias||[]).map(String).map(x=>x.trim()).filter(Boolean))],icones_categorias:(x.icones_categorias&&typeof x.icones_categorias==='object')?Object.fromEntries(Object.entries(x.icones_categorias).map(([k,v])=>[k,iconSrc(v)])):{},categorias_slider:Array.isArray(x.categorias_slider)?[...new Set(x.categorias_slider.map(String))]:[],configuracoes:{...(x.configuracoes||{}),logo_site:siteLogoSrc(x.configuracoes?.logo_site||'logotipo/guia_sobralense_logo.svg'),slider_categorias_ativo:x.configuracoes?.slider_categorias_ativo!==false,busca_ia_ativa:x.configuracoes?.busca_ia_ativa===true,icone_google_ativo:x.configuracoes?.icone_google_ativo!==false},situacoes:[...new Set((x.situacoes||[]).map(String).map(x=>x.trim()).filter(Boolean))],empresas:(x.empresas||[]).map(e=>({empresa:String(e.empresa||'').trim(),categoria_1:String(e.categoria_1||'').trim(),categoria_2:String(e.categoria_2||'').trim(),categoria_3:String(e.categoria_3||'').trim(),situacao:String(e.situacao||'').trim(),instagram:String(e.instagram||'').trim(),logo:logoSrc(e.logo),descricao:String(e.descricao||'').trim(),palavras_chave:String(e.palavras_chave||'').trim(),info_ia:String(e.info_ia||e.informacoes_ia||e.informacoes_para_uso_em_ia||'').trim(),bairro:String(e.bairro||'').trim(),localizacoes:normalizeLocations(e),horario_funcionamento:normalizeSchedule(e.horario_funcionamento),whatsapp:String(e.whatsapp||'').trim(),site:String(e.site||'').trim(),facebook:String(e.facebook||'').trim(),localizacao:String(e.localizacao||'').trim(),horario_compartilhado:e.horario_compartilhado!==false,instagram_compartilhado:e.instagram_compartilhado!==false,whatsapp_compartilhado:e.whatsapp_compartilhado!==false,site_compartilhado:e.site_compartilhado!==false,facebook_compartilhado:e.facebook_compartilhado!==false,data_criacao:String(e.data_criacao||e.created_at||e.data_cadastro||e.criado_em||''),data_atualizacao:String(e.data_atualizacao||e.updated_at||''),data_verificacao:String(e.data_verificacao||''),google_maps:!!e.google_maps,avaliacoes_link:String(e.avaliacoes_link||e.link_avaliacoes||''),seguidores_instagram:Number(e.seguidores_instagram??e.instagram_seguidores??0)||0})),bairros:[...new Set([...(x.bairros||[]),...(x.empresas||[]).flatMap(e=>(e.localizacoes||[]).map(l=>l.bairro||''))].map(String).map(v=>v.trim()).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt-BR',{sensitivity:'base'}))}};
+function norm(x){return{categorias:[...new Set((x.categorias||[]).map(String).map(x=>x.trim()).filter(Boolean))],icones_categorias:(x.icones_categorias&&typeof x.icones_categorias==='object')?Object.fromEntries(Object.entries(x.icones_categorias).map(([k,v])=>[k,iconSrc(v)])):{},categorias_slider:Array.isArray(x.categorias_slider)?[...new Set(x.categorias_slider.map(String))]:[],configuracoes:{...(x.configuracoes||{}),logo_site:siteLogoSrc(x.configuracoes?.logo_site||'logotipo/guia_sobralense_logo.svg'),slider_categorias_ativo:x.configuracoes?.slider_categorias_ativo!==false,busca_ia_ativa:x.configuracoes?.busca_ia_ativa===true,icone_google_ativo:x.configuracoes?.icone_google_ativo!==false,destaque_card_ativo:x.configuracoes?.destaque_card_ativo!==false,exibir_cliques_card:x.configuracoes?.exibir_cliques_card!==false,contador_online_ativo:x.configuracoes?.contador_online_ativo!==false},situacoes:[...new Set((x.situacoes||[]).map(String).map(x=>x.trim()).filter(Boolean))],empresas:(x.empresas||[]).map(e=>({empresa:String(e.empresa||'').trim(),categoria_1:String(e.categoria_1||'').trim(),categoria_2:String(e.categoria_2||'').trim(),categoria_3:String(e.categoria_3||'').trim(),situacao:String(e.situacao||'').trim(),instagram:String(e.instagram||'').trim(),logo:logoSrc(e.logo),descricao:String(e.descricao||'').trim(),palavras_chave:String(e.palavras_chave||'').trim(),info_ia:String(e.info_ia||e.informacoes_ia||e.informacoes_para_uso_em_ia||'').trim(),bairro:String(e.bairro||'').trim(),localizacoes:normalizeLocations(e),horario_funcionamento:normalizeSchedule(e.horario_funcionamento),whatsapp:String(e.whatsapp||'').trim(),site:String(e.site||'').trim(),facebook:String(e.facebook||'').trim(),localizacao:String(e.localizacao||'').trim(),horario_compartilhado:e.horario_compartilhado!==false,instagram_compartilhado:e.instagram_compartilhado!==false,whatsapp_compartilhado:e.whatsapp_compartilhado!==false,site_compartilhado:e.site_compartilhado!==false,facebook_compartilhado:e.facebook_compartilhado!==false,data_criacao:String(e.data_criacao||e.created_at||e.data_cadastro||e.criado_em||''),data_atualizacao:String(e.data_atualizacao||e.updated_at||''),data_verificacao:String(e.data_verificacao||''),google_maps:!!e.google_maps,avaliacoes_link:String(e.avaliacoes_link||e.link_avaliacoes||''),seguidores_instagram:Number(e.seguidores_instagram??e.instagram_seguidores??0)||0,historico_seguidores:Array.isArray(e.historico_seguidores)?e.historico_seguidores:[],cliques:(e.cliques&&typeof e.cliques==='object')?e.cliques:{}})),bairros:[...new Set([...(x.bairros||[]),...(x.empresas||[]).flatMap(e=>(e.localizacoes||[]).map(l=>l.bairro||''))].map(String).map(v=>v.trim()).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt-BR',{sensitivity:'base'}))}};
 function sortedCats(){return [...DATA.categorias].sort((a,b)=>a.localeCompare(b,'pt-BR',{sensitivity:'base'}))}
 function refreshCats(){const old=$('cat').value,c=sortedCats();$('cat').innerHTML='<option value="">Todas as categorias</option>'+c.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('');if(c.includes(old))$('cat').value=old}
 function iconSvg(type){const p={instagram:'<path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7Zm5 3.5A4.5 4.5 0 1 1 7.5 12 4.5 4.5 0 0 1 12 7.5Zm0 2A2.5 2.5 0 1 0 14.5 12 2.5 2.5 0 0 0 12 9.5ZM17.5 6.25a1.25 1.25 0 1 1-1.25 1.25Z"/>',facebook:'<path d="M14 22v-8h2.8l.4-3H14V9.1c0-.87.24-1.46 1.5-1.46H17V5a16 16 0 0 0-2.2-.15C12.6 4.85 11 6.18 11 8.7V11H8.3v3H11v8h3Z"/>',whatsapp:'<path d="M20.5 3.5A11.9 11.9 0 0 0 12 0C5.4 0 .1 5.3.1 11.9c0 2.1.6 4.1 1.6 5.9L0 24l6.4-1.7a12 12 0 0 0 5.6 1.4h.1c6.6 0 11.9-5.3 11.9-11.9 0-3.2-1.2-6.1-3.5-8.3ZM12 21.6h-.1a9.7 9.7 0 0 1-5-1.4l-.4-.2-3.8 1 1-3.7-.2-.4a9.7 9.7 0 0 1-1.5-5.1C2 6.5 6.5 2 12 2c2.7 0 5.1 1 7 2.9a9.7 9.7 0 0 1 2.9 7c0 5.4-4.5 9.7-9.9 9.7Zm5.4-7.3c-.3-.2-1.7-.8-2-.9-.3-.1-.5-.2-.7.2-.2.3-.7.9-.8 1.1-.2.2-.3.2-.6.1-1.6-.8-2.7-1.4-3.8-3.2-.3-.5.3-.5.7-1.7.1-.2.1-.4 0-.6-.1-.2-.7-1.7-1-1.9-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 3s1.2 3.5 1.4 3.7c.2.2 2.4 3.7 5.8 5.1.8.3 1.5.5 2 .6.8.2 1.6.2 2.2.1.7-.1 1.7-.7 1.9-1.4.2-.7.2-1.3.1-1.4-.1-.1-.3-.2-.6-.3Z"/>',site:'<path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 9h-3.05a16.5 16.5 0 0 0-1.2-5.1A8.04 8.04 0 0 1 18.9 11ZM12 4c.8 1.1 1.8 3.5 1.9 7h-3.8c.1-3.5 1.1-5.9 1.9-7ZM10.1 13h3.8c-.1 3.5-1.1 5.9-1.9 7-.8-1.1-1.8-3.5-1.9-7Zm4.55 6.1a16.5 16.5 0 0 0 1.2-5.1h3.05a8.04 8.04 0 0 1-4.25 5.1ZM8.2 6a16.5 16.5 0 0 0-1.2 5.1H3.95A8.04 8.04 0 0 1 8.2 6ZM3.95 13H7a16.5 16.5 0 0 0 1.2 5.1A8.04 8.04 0 0 1 3.95 13Z"/>',location:'<path d="M12 2a7 7 0 0 0-7 7c0 5.3 7 13 7 13s7-7.7 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 14.5 9 2.5 2.5 0 0 1 12 11.5Z"/>',google:'<path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/><path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/><path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z" fill="#FBBC05"/><path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.52 6.16-4.52z" fill="#EA4335"/>'};return `<svg viewBox="0 0 24 24" aria-hidden="true">${p[type]||''}</svg>`}
@@ -433,12 +484,12 @@ function localIntentSearch(interpretation){const primary=String(interpretation.t
 async function runAiSearch(){const query=$('q').value.trim();if(!query){aiHasRun=true;aiResults=[];aiAnswer='Digite o que você precisa — por exemplo, “quero brindes para presentear clientes da minha empresa”.';showAiMessage(aiAnswer);render();return}const button=$('runAi');button.disabled=true;button.textContent='Interpretando…';aiHasRun=true;aiResults=[];showAiMessage('A IA está interpretando seu pedido. Depois, a própria página pesquisará nos dados já carregados…');render();try{const response=await fetch('/api/ai-search',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query})});const payload=await response.json();if(!response.ok)throw new Error(payload.error||'Não foi possível consultar o Ollama.');if(payload.error)throw new Error(payload.error);const interpretation=payload.interpretation||{};const primary=String(interpretation.termo_principal||'').trim();const synonyms=Array.isArray(interpretation.sinonimos)?interpretation.sinonimos:[];const complementary=Array.isArray(interpretation.complementares)?interpretation.complementares:[];const possibleCategories=Array.isArray(interpretation.categorias_possiveis)?interpretation.categorias_possiveis:[];if(!primary)throw new Error('A IA não retornou um termo principal.');aiResults=localIntentSearch(interpretation);const lines=['Termo principal: '+primary,'Sinônimos: '+(synonyms.length?synonyms.join(', '):'—'),'Termos complementares: '+(complementary.length?complementary.join(', '):'—'),'Categorias possíveis: '+(possibleCategories.length?possibleCategories.join(', '):'—')];aiAnswer=aiResults.length?'Encontrei '+aiResults.length+' empresa'+(aiResults.length===1?'':'s')+' publicada'+(aiResults.length===1?'':'s')+' com correspondência aos termos.':'Entendi seu objetivo, mas não encontrei empresas publicadas correspondentes. Tente outros termos ou confira se a empresa está cadastrada no Guia.';showAiMessage('Interpretei sua busca assim:\n'+lines.join('\n')+'\n\n'+aiAnswer);render()}catch(err){aiResults=[];aiAnswer='Não consegui interpretar sua busca com a IA local. Verifique se o servidor local está aberto e se o Ollama está em execução. Detalhe: '+err.message;showAiMessage(aiAnswer);render()}finally{button.disabled=false;button.textContent='Encontrar empresas'}}
 function isOpenNow(e){const schedules=[];if(e.horario_compartilhado===false){(e.localizacoes||[]).forEach(l=>schedules.push(l.horario_funcionamento))}else schedules.push(e.horario_funcionamento);return schedules.some(s=>getOpenStatus(s).open===true)}
 function formatFollowers(value){const n=Number(value)||0;if(n>=1000000)return (n/1000000).toLocaleString('pt-BR',{maximumFractionDigits:1})+'M';if(n>=1000)return (n/1000).toLocaleString('pt-BR',{maximumFractionDigits:1})+'K';return String(n)}
-function refreshNeighborhoods(){const sel=$('neighborhoodFilter');if(!sel)return;const old=sel.value;const names=DATA.bairros?.length?DATA.bairros:[...new Set(DATA.empresas.flatMap(e=>(e.localizacoes||[]).map(l=>l.bairro)).filter(Boolean))];sel.innerHTML='<option value="">Todos os bairros</option>'+names.slice().sort((a,b)=>a.localeCompare(b,'pt-BR',{sensitivity:'base'})).map(b=>`<option value="${esc(b)}">${esc(b)}</option>`).join('');if(names.includes(old))sel.value=old}
+function refreshNeighborhoods(){const sel=$('neighborhoodFilter');if(!sel)return;const old=sel.value;const names=DATA.bairros?.length?DATA.bairros:[...new Set(DATA.empresas.flatMap(e=>(e.localizacoes||[]).map(l=>l.bairro)).filter(Boolean))];sel.innerHTML='<option value="">Todos os bairros/distritos</option>'+names.slice().sort((a,b)=>a.localeCompare(b,'pt-BR',{sensitivity:'base'})).map(b=>`<option value="${esc(b)}">${esc(b)}</option>`).join('');if(names.includes(old))sel.value=old}
 function render(){const q=$('q').value.trim(),mode=searchMode,cat=$('cat').value,sort=$('sort')?.value||'name',openOnly=$('openFilter')?.value==='open',neighborhood=$('neighborhoodFilter')?.value||'';let list;if(mode==='ai'){if(aiHasRun){list=(aiResults||[]).filter(e=>!cat||[e.categoria_1,e.categoria_2,e.categoria_3].includes(cat))}else{$('assistantBox').classList.remove('visible');list=DATA.empresas.filter(e=>e.situacao==='POSTADO').filter(e=>!cat||e.categoria_1===cat||e.categoria_2===cat||e.categoria_3===cat)}}else{$('assistantBox').classList.remove('visible');const folded=foldText(q);list=DATA.empresas.filter(e=>e.situacao==='POSTADO').filter(e=>{const h=foldText([e.empresa,e.categoria_1,e.categoria_2,e.categoria_3,e.descricao,stripKeywordHeadings(e.palavras_chave),e.bairro,...(e.localizacoes||[]).flatMap(l=>[l.nome,l.bairro])].join(' '));return(!folded||h.includes(folded))&&(!cat||e.categoria_1===cat||e.categoria_2===cat||e.categoria_3===cat)})}
 list=list.filter(e=>(!openOnly||isOpenNow(e))&&(!neighborhood||(e.localizacoes||[]).some(l=>l.bairro===neighborhood)||e.bairro===neighborhood));
 if(sort==='followers')list.sort((a,b)=>Math.max(Number(b.seguidores_instagram)||0,...(b.localizacoes||[]).map(l=>Number(l.seguidores_instagram)||0))-Math.max(Number(a.seguidores_instagram)||0,...(a.localizacoes||[]).map(l=>Number(l.seguidores_instagram)||0)));else if(sort==='recent'){list.sort((a,b)=>{const da=parseDate(a.data_criacao||a.data_atualizacao),db=parseDate(b.data_criacao||b.data_atualizacao);if(da||db)return db-da;return DATA.empresas.indexOf(b)-DATA.empresas.indexOf(a)})}else if(sort==='random'){list.sort((a,b)=>(a._randomOrder??0)-(b._randomOrder??0))}else if(mode!=='ai'||!aiHasRun){list.sort((a,b)=>a.empresa.localeCompare(b.empresa,'pt-BR',{sensitivity:'base'}))}
 $('count').textContent=list.length+' empresa'+(list.length===1?' encontrada':'s encontradas');
-$('grid').innerHTML=list.length?list.map(e=>{const cats=[e.categoria_1,e.categoria_2,e.categoria_3].filter(Boolean),locations=e.localizacoes||[],loc=locations[0]||null,status=getOpenStatus(e.horario_compartilhado===false?(loc?.horario_funcionamento||emptySchedule()):e.horario_funcionamento),verified=!!String(e.data_verificacao||'').trim(),initials=e.empresa.split(/\s+/).filter(Boolean).slice(0,2).map(x=>x[0]).join('').toUpperCase(),followers=Number(e.instagram_compartilhado===false?(loc?.seguidores_instagram||0):e.seguidores_instagram)||0,hasFollowers=Number(e.seguidores_instagram)>0||(locations||[]).some(l=>Number(l.seguidores_instagram)>0);return `<article class="dir-card"><div class="dir-top"><span class="card-category" data-primary="${esc(cats[0]||'')}" data-altcat="${esc(cats[1]||'')}">${esc(cats[0]||'')}</span><span class="verified-dot ${verified?'is-verified':'is-unverified'}" title="${verified?'Empresa verificada':'Empresa não verificada'}"></span></div><div class="dir-logo-wrap">${e.logo?`<img class="dir-logo" src="${esc(logoSrc(e.logo))}" alt="Logo ${esc(e.empresa)}" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<div class="dir-logo-placeholder" style="display:${e.logo?'none':'block'}">${initials}</div></div><div class="dir-body"><div class="dir-name">${esc(e.empresa)}</div><div class="dir-description">${esc(e.descricao)}</div>${loc?`<div class="dir-neighborhood" data-location-label>${esc([loc.nome,loc.bairro,'Sobral'].filter(Boolean).join(' • '))}</div>`:''}<div class="dir-open-status ${status.open===true?'is-open':status.open===false?'is-closed':'is-unknown'}">${esc(status.text)}</div>${(hasFollowers||e.avaliacoes_link)?`<div class="card-social-proof">${hasFollowers?`<span class="card-followers" data-followers title="${followers.toLocaleString('pt-BR')} seguidores" style="${followers>0?'':'display:none'}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 11a4 4 0 1 0-3.9-4.8A4 4 0 0 0 16 11ZM8 11a3.5 3.5 0 1 0-3.5-3.5A3.5 3.5 0 0 0 8 11Zm0 2c-2.7 0-8 1.3-8 4v2h12v-2c0-1.5.8-2.7 2-3.5A15 15 0 0 0 8 13Zm8 0c-.5 0-1 .03-1.5.08 1.5.9 2.5 2.2 2.5 3.9v2h7v-2c0-2.7-5.3-4-8-4Z"/></svg>${formatFollowers(followers)}</span>`:''}${e.avaliacoes_link?`<a class="card-rating" href="${esc(e.avaliacoes_link)}" target="_blank" rel="noopener noreferrer" title="Ver avaliações"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2 3 6.2 6.8 1-4.9 4.8 1.2 6.8L12 17.6l-6.1 3.2 1.2-6.8L2.2 9.2l6.8-1L12 2Z"/></svg>Avaliações</a>`:''}</div>`:''}</div><div class="dir-links">${linkButton(e.instagram,'instagram','Instagram').replace('<a ','<a data-contact="instagram" ')}${linkButton(e.whatsapp,'whatsapp','WhatsApp').replace('<a ','<a data-contact="whatsapp" ')}${linkButton(e.site,'site','Site').replace('<a ','<a data-contact="site" ')}${linkButton(e.facebook,'facebook','Facebook').replace('<a ','<a data-contact="facebook" ')}${googleLinkButton(e.empresa)}${locations.some(l=>l.link)?`<a class="dir-link location-link" href="${esc(loc?.link||locations.find(l=>l.link)?.link||'')}" target="_blank" rel="noopener noreferrer" aria-label="Localização" title="${esc(loc?.nome||'Localização')}" data-location-icon style="--location-color:${locationColor(0)}">${iconSvg('location')}</a>`:''}</div></article>`}).join(''):'<div class="empty"><strong>Nenhuma empresa publicada encontrada.</strong>Somente empresas com situação POSTADO aparecem nesta página.</div>';
+$('grid').innerHTML=list.length?list.map(e=>{const cats=[e.categoria_1,e.categoria_2,e.categoria_3].filter(Boolean),locations=e.localizacoes||[],loc=locations[0]||null,status=getOpenStatus(e.horario_compartilhado===false?(loc?.horario_funcionamento||emptySchedule()):e.horario_funcionamento),verified=!!String(e.data_verificacao||'').trim(),initials=e.empresa.split(/\s+/).filter(Boolean).slice(0,2).map(x=>x[0]).join('').toUpperCase(),followers=Number(e.instagram_compartilhado===false?(loc?.seguidores_instagram||0):e.seguidores_instagram)||0,hasFollowers=Number(e.seguidores_instagram)>0||(locations||[]).some(l=>Number(l.seguidores_instagram)>0),spEnabled=DATA.configuracoes?.destaque_card_ativo!==false;return `<article class="dir-card"><div class="dir-top"><span class="card-category" data-primary="${esc(cats[0]||'')}" data-altcat="${esc(cats[1]||'')}">${esc(cats[0]||'')}</span><span class="verified-dot ${verified?'is-verified':'is-unverified'}" title="${verified?'Empresa verificada':'Empresa não verificada'}"></span></div><div class="dir-logo-wrap"${spEnabled?' title="Clique na logo para ampliar o card e ver estatísticas"':''}>${e.logo?`<img class="dir-logo" src="${esc(logoSrc(e.logo))}" alt="Logo ${esc(e.empresa)}" onerror="this.style.display='none';this.nextElementSibling.style.display='block'">`:''}<div class="dir-logo-placeholder" style="display:${e.logo?'none':'block'}">${initials}</div></div><div class="dir-body"><div class="dir-name">${esc(e.empresa)}</div><div class="dir-description">${esc(e.descricao)}</div>${loc?`<div class="dir-neighborhood" data-location-label>${esc([loc.nome,loc.bairro,'Sobral'].filter(Boolean).join(' • '))}</div>`:''}<div class="dir-open-status ${status.open===true?'is-open':status.open===false?'is-closed':'is-unknown'}">${esc(status.text)}</div>${(hasFollowers||e.avaliacoes_link)?`<div class="card-social-proof">${hasFollowers?`<span class="card-followers" data-followers title="${followers.toLocaleString('pt-BR')} seguidores" style="${followers>0?'':'display:none'}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 11a4 4 0 1 0-3.9-4.8A4 4 0 0 0 16 11ZM8 11a3.5 3.5 0 1 0-3.5-3.5A3.5 3.5 0 0 0 8 11Zm0 2c-2.7 0-8 1.3-8 4v2h12v-2c0-1.5.8-2.7 2-3.5A15 15 0 0 0 8 13Zm8 0c-.5 0-1 .03-1.5.08 1.5.9 2.5 2.2 2.5 3.9v2h7v-2c0-2.7-5.3-4-8-4Z"/></svg>${formatFollowers(followers)}</span>`:''}${e.avaliacoes_link?`<a class="card-rating" href="${esc(e.avaliacoes_link)}" target="_blank" rel="noopener noreferrer" title="Ver avaliações"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2 3 6.2 6.8 1-4.9 4.8 1.2 6.8L12 17.6l-6.1 3.2 1.2-6.8L2.2 9.2l6.8-1L12 2Z"/></svg>Avaliações</a>`:''}</div>`:''}</div><div class="dir-links">${linkButton(e.instagram,'instagram','Instagram').replace('<a ','<a data-contact="instagram" ')}${linkButton(e.whatsapp,'whatsapp','WhatsApp').replace('<a ','<a data-contact="whatsapp" ')}${linkButton(e.site,'site','Site').replace('<a ','<a data-contact="site" ')}${linkButton(e.facebook,'facebook','Facebook').replace('<a ','<a data-contact="facebook" ')}${googleLinkButton(e.empresa)}${locations.some(l=>l.link)?`<a class="dir-link location-link" href="${esc(loc?.link||locations.find(l=>l.link)?.link||'')}" target="_blank" rel="noopener noreferrer" aria-label="Localização" title="${esc(loc?.nome||'Localização')}" data-location-icon style="--location-color:${locationColor(0)}">${iconSvg('location')}</a>`:''}</div></article>`}).join(''):'<div class="empty"><strong>Nenhuma empresa publicada encontrada.</strong>Somente empresas com situação POSTADO aparecem nesta página.</div>';
 document.querySelectorAll('.card-category').forEach(el=>el._catState=0);document.querySelectorAll('.dir-card').forEach((card,i)=>{card._business=list[i];card._locations=list[i]?.localizacoes||[];card._locationIndex=0;applyLocation(card,0)});updateFilterBadge();setTimeout(adjustAllCategoryBadges,0)}
 function updateFilterBadge(){const cat=$('cat')?.value||'',sort=$('sort')?.value||'name',openFilter=$('openFilter')?.value||'',neighborhood=$('neighborhoodFilter')?.value||'';let c=0;if(cat)c++;if(sort!=='name')c++;if(openFilter)c++;if(neighborhood)c++;const b=$('activeFilterBadge'),btn=$('toggleFiltersBtn');if(b){b.textContent=String(c);b.style.display=c>0?'inline-grid':'none'}if(btn){btn.classList.toggle('has-filters',c>0)}}
 $('toggleFiltersBtn')?.addEventListener('click',()=>{const p=$('filtersPanel'),btn=$('toggleFiltersBtn');if(!p||!btn)return;const willOpen=p.hidden;p.hidden=!willOpen;btn.classList.toggle('is-open',willOpen);btn.setAttribute('aria-expanded',String(willOpen));const chevron=$('filterChevron');if(chevron)chevron.textContent=willOpen?'▴':'▾'});
@@ -554,7 +605,285 @@ function syncPageFromHash(){
 }
 window.addEventListener('hashchange',syncPageFromHash);
 
-async function loadData(parsed){DATA=norm(parsed);try{localStorage.setItem('guiaSobralenseData',JSON.stringify(DATA))}catch(e){}applySiteBrandLogo();syncAiSearchVisibility();refreshCats();refreshNeighborhoods();renderCategorySlider();renderCategoriesPage();render()}
+let onlinePingTimer=null,onlineSessionId='';
+function getOnlineSessionId(){
+  if(onlineSessionId)return onlineSessionId;
+  try{
+    onlineSessionId=sessionStorage.getItem('guiaSobralenseSessionId')||'';
+    if(!onlineSessionId){
+      onlineSessionId='gs_'+Math.random().toString(36).slice(2,10)+'_'+Date.now().toString(36);
+      sessionStorage.setItem('guiaSobralenseSessionId',onlineSessionId);
+    }
+  }catch(e){
+    onlineSessionId='gs_'+Math.random().toString(36).slice(2,10);
+  }
+  return onlineSessionId;
+}
+function updateOnlineCounterUI(count){
+  const badge=$('onlineCounterBadge'),txt=$('onlineCounterText');
+  if(!badge||!txt)return;
+  const enabled=DATA.configuracoes?.contador_online_ativo!==false;
+  badge.hidden=!enabled;
+  if(!enabled)return;
+  const n=Math.max(1,Number(count)||1);
+  txt.textContent=n===1?'1 pessoa online agora':`${n} pessoas online agora`;
+}
+function fallbackLocalOnlineCount(){
+  try{
+    const sid=getOnlineSessionId(),now=Date.now(),ttl=65000;
+    let map={};
+    try{map=JSON.parse(localStorage.getItem('guiaSobralenseOnlineTabs')||'{}')||{}}catch(e){map={}}
+    Object.keys(map).forEach(k=>{if(now-(Number(map[k])||0)>ttl)delete map[k]});
+    map[sid]=now;
+    localStorage.setItem('guiaSobralenseOnlineTabs',JSON.stringify(map));
+    return Math.max(1,Object.keys(map).length);
+  }catch(e){return 1}
+}
+async function pingOnlineCounter(){
+  const badge=$('onlineCounterBadge');
+  if(!badge)return;
+  if(DATA.configuracoes?.contador_online_ativo===false){badge.hidden=true;return;}
+  badge.hidden=false;
+  const sid=getOnlineSessionId();
+  try{
+    const res=await fetch('/api/online-ping?sid='+encodeURIComponent(sid),{cache:'no-store'});
+    if(res.ok){
+      const d=await res.json();
+      if(d&&d.online){updateOnlineCounterUI(d.online);return;}
+    }
+  }catch(e){}
+  updateOnlineCounterUI(fallbackLocalOnlineCount());
+}
+function syncOnlineCounterVisibility(){
+  const enabled=DATA.configuracoes?.contador_online_ativo!==false;
+  const badge=$('onlineCounterBadge');
+  if(badge)badge.hidden=!enabled;
+  if(onlinePingTimer){clearInterval(onlinePingTimer);onlinePingTimer=null}
+  if(enabled){
+    pingOnlineCounter();
+    onlinePingTimer=setInterval(pingOnlineCounter,25000);
+  }
+}
+function trackCompanyClick(empresaName,tipo){
+  const emp=String(empresaName||'').trim();
+  const ch=String(tipo||'site').trim().toLowerCase();
+  if(!emp)return;
+  const now=new Date();
+  const nowStr=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+  const curMonth=nowStr.slice(0,7);
+  try{
+    let store={};
+    try{store=JSON.parse(localStorage.getItem('guiaSobralenseClicks')||'{}')||{}}catch(e){store={}}
+    const cur=store[emp]||{total:0,whatsapp:0,instagram:0,localizacao:0,google:0,site:0,facebook:0,avaliacoes:0,por_mes:{},ultimo_clique:''};
+    cur.total=(Number(cur.total)||0)+1;
+    cur[ch]=(Number(cur[ch])||0)+1;
+    if(!cur.por_mes||typeof cur.por_mes!=='object')cur.por_mes={};
+    cur.por_mes[curMonth]=(Number(cur.por_mes[curMonth])||0)+1;
+    cur.ultimo_clique=nowStr;
+    store[emp]=cur;
+    localStorage.setItem('guiaSobralenseClicks',JSON.stringify(store));
+    if('BroadcastChannel' in window){
+      if(!window.__guiaBC)window.__guiaBC=new BroadcastChannel('guiaSobralenseSync');
+      window.__guiaBC.postMessage({type:'click-tracked',empresa:emp,tipo:ch,cliques:cur});
+    }
+  }catch(e){}
+  try{
+    const payload=JSON.stringify({empresa:emp,tipo:ch});
+    if(navigator.sendBeacon){
+      const blob=new Blob([payload],{type:'application/json'});
+      navigator.sendBeacon('/api/track-click',blob);
+    }else{
+      fetch('/api/track-click',{method:'POST',headers:{'Content-Type':'application/json'},body:payload,keepalive:true}).catch(()=>{});
+    }
+  }catch(e){}
+}
+$('grid')?.addEventListener('click',e=>{
+  const logoWrap=e.target.closest('.dir-logo-wrap');
+  if(logoWrap){
+    if(DATA.configuracoes?.destaque_card_ativo===false)return;
+    const card=logoWrap.closest('.dir-card');
+    if(card&&card._business){
+      e.preventDefault();
+      openCardSpotlight(card._business,card._locationIndex||0);
+    }
+    return;
+  }
+  const link=e.target.closest('a.dir-link, a.card-rating');
+  if(!link)return;
+  const card=link.closest('.dir-card');
+  const biz=card?._business;
+  if(!biz||!biz.empresa)return;
+  let tipo='site';
+  if(link.dataset.contact)tipo=link.dataset.contact;
+  else if(link.classList.contains('google-link'))tipo='google';
+  else if(link.classList.contains('location-link')||link.hasAttribute('data-location-icon'))tipo='localizacao';
+  else if(link.classList.contains('card-rating'))tipo='avaliacoes';
+  trackCompanyClick(biz.empresa,tipo);
+});
+
+let activeSpotlightCompany=null;
+function formatDateBR(isoStr){
+  const s=String(isoStr||'').trim();
+  if(!s)return '—';
+  const m=s.match(/^(\d{4})-(\d{2})-(\d{2})/);
+  if(m)return `${m[3]}/${m[2]}/${m[1]}`;
+  return s;
+}
+function syncSpotlightVisibility(){
+  const enabled=DATA.configuracoes?.destaque_card_ativo!==false;
+  document.body.classList.toggle('spotlight-disabled',!enabled);
+  if(!enabled)closeCardSpotlight();
+}
+function getSpotlightStats(e){
+  const rawHist=Array.isArray(e?.historico_seguidores)?e.historico_seguidores.filter(h=>h&&typeof h==='object'):[];
+  const hist=rawHist.slice(-5);
+  const firstSnap=hist.length?hist[0]:null;
+  const lastSnap=hist.length?hist[hist.length-1]:null;
+
+  const firstDateIso=String(firstSnap?.data||e?.data_verificacao||'').trim();
+  const lastDateIso=String(e?.data_verificacao||lastSnap?.data||firstDateIso||'').trim();
+
+  const followersNow=Number(lastSnap?.seguidores??e?.seguidores_instagram)||0;
+  const followersFirst=hist.length>1?(Number(firstSnap?.seguidores??followersNow)||0):followersNow;
+  const totalDiff=followersNow-followersFirst;
+
+  let monthsCaptured=1;
+  const m1=firstDateIso.match(/^(\d{4})-(\d{2})-(\d{2})/);
+  const m2=lastDateIso.match(/^(\d{4})-(\d{2})-(\d{2})/);
+  if(m1&&m2){
+    const d1=new Date(Number(m1[1]),Number(m1[2])-1,Number(m1[3]));
+    const d2=new Date(Number(m2[1]),Number(m2[2])-1,Number(m2[3]));
+    const diffDays=Math.max(0,(d2-d1)/(1000*60*60*24));
+    const calMonths=(Number(m2[1])-Number(m1[1]))*12+(Number(m2[2])-Number(m1[2]));
+    const dayMonths=Math.round(diffDays/30);
+    monthsCaptured=Math.max(1,calMonths,dayMonths);
+  }
+
+  const monthlyAvg=Math.round(totalDiff/monthsCaptured);
+  const totalPct=followersFirst>0?((totalDiff/followersFirst)*100):0;
+  const growthPct=totalPct/monthsCaptured;
+
+  const srv=(e&&e.cliques&&typeof e.cliques==='object')?e.cliques:{};
+  let loc={};
+  try{
+    const st=JSON.parse(localStorage.getItem('guiaSobralenseClicks')||'{}')||{};
+    if(e&&e.empresa&&st[e.empresa])loc=st[e.empresa];
+  }catch(err){}
+  const now=new Date();
+  const curMonth=`${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}`;
+  const srvMonth=Number(srv.por_mes?.[curMonth])||0;
+  const locMonth=Number(loc.por_mes?.[curMonth])||0;
+  const totalClicks=Math.max(Number(srv.total)||0,Number(loc.total)||0);
+  const monthClicks=Math.max(srvMonth,locMonth,totalClicks);
+  return {
+    followersNow,
+    followersFirst,
+    followerDelta:monthlyAvg,
+    totalDiff,
+    monthsCaptured,
+    growthPct,
+    monthClicks,
+    totalClicks,
+    firstDateIso,
+    lastDateIso,
+    firstDateBR:formatDateBR(firstDateIso),
+    lastDateBR:formatDateBR(lastDateIso)
+  };
+}
+function openCardSpotlight(e,locIdx=0){
+  if(DATA.configuracoes?.destaque_card_ativo===false)return;
+  const backdrop=$('cardSpotlightBackdrop'),wrap=$('cardSpotlightWrap');
+  if(!backdrop||!wrap||!e)return;
+  if(activeSpotlightCompany===e.empresa&&backdrop.classList.contains('open')){
+    closeCardSpotlight();
+    return;
+  }
+  activeSpotlightCompany=e.empresa;
+  const cats=[e.categoria_1,e.categoria_2,e.categoria_3].filter(Boolean);
+  const locations=e.localizacoes||[];
+  const loc=locations[locIdx%Math.max(1,locations.length)]||null;
+  const status=getOpenStatus(e.horario_compartilhado===false?(loc?.horario_funcionamento||emptySchedule()):e.horario_funcionamento);
+  const verified=!!String(e.data_verificacao||'').trim();
+  const initials=e.empresa.split(/\s+/).filter(Boolean).slice(0,2).map(x=>x[0]).join('').toUpperCase();
+  const followers=Number(e.instagram_compartilhado===false?(loc?.seguidores_instagram||0):e.seguidores_instagram)||0;
+  const hasFollowers=Number(e.seguidores_instagram)>0||(locations||[]).some(l=>Number(l.seguidores_instagram)>0);
+  const st=getSpotlightStats(e);
+  const deltaSign=st.followerDelta>0?'+':'';
+  const deltaClass=st.followerDelta>0?'is-up':st.followerDelta<0?'is-down':'';
+  const totalClass=st.totalDiff>0?'is-up':st.totalDiff<0?'is-down':'';
+  const showClicks=DATA.configuracoes?.exibir_cliques_card!==false;
+  const periodLabel=st.monthsCaptured===1?'no último 1 mês':`nos últimos ${st.monthsCaptured} meses`;
+  const totalVerb=st.totalDiff<0?'Perdeu':'Ganhou';
+  const totalAbs=Math.abs(st.totalDiff).toLocaleString('pt-BR');
+
+  wrap.innerHTML=`<article class="dir-card spotlight-card"><div class="dir-top"><span class="card-category" data-primary="${esc(cats[0]||'')}" data-altcat="${esc(cats[1]||'')}">${esc(cats.join(' • ')||'')}</span><span class="verified-dot ${verified?'is-verified':'is-unverified'}" title="${verified?'Empresa verificada':'Empresa não verificada'}"></span></div><div class="dir-logo-wrap js-close-spotlight" title="Clique na logo novamente para fechar e voltar"><img class="dir-logo" src="${esc(logoSrc(e.logo))}" alt="Logo ${esc(e.empresa)}" style="display:${e.logo?'block':'none'}" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"><div class="dir-logo-placeholder" style="display:${e.logo?'none':'block'}">${initials}</div></div><div class="card-spotlight-hint">Clique na logo novamente para voltar</div><div class="dir-body"><div class="dir-name">${esc(e.empresa)}</div><div class="dir-description">${esc(e.descricao)}</div>${loc?`<div class="dir-neighborhood" data-location-label>${esc([loc.nome,loc.bairro,'Sobral'].filter(Boolean).join(' • '))}</div>`:''}<div class="dir-open-status ${status.open===true?'is-open':status.open===false?'is-closed':'is-unknown'}">${esc(status.text)}</div>${(hasFollowers||e.avaliacoes_link)?`<div class="card-social-proof">${hasFollowers?`<span class="card-followers" data-followers title="${followers.toLocaleString('pt-BR')} seguidores" style="${followers>0?'':'display:none'}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 11a4 4 0 1 0-3.9-4.8A4 4 0 0 0 16 11ZM8 11a3.5 3.5 0 1 0-3.5-3.5A3.5 3.5 0 0 0 8 11Zm0 2c-2.7 0-8 1.3-8 4v2h12v-2c0-1.5.8-2.7 2-3.5A15 15 0 0 0 8 13Zm8 0c-.5 0-1 .03-1.5.08 1.5.9 2.5 2.2 2.5 3.9v2h7v-2c0-2.7-5.3-4-8-4Z"/></svg>${formatFollowers(followers)}</span>`:''}${e.avaliacoes_link?`<a class="card-rating" href="${esc(e.avaliacoes_link)}" target="_blank" rel="noopener noreferrer" title="Ver avaliações"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2 3 6.2 6.8 1-4.9 4.8 1.2 6.8L12 17.6l-6.1 3.2 1.2-6.8L2.2 9.2l6.8-1L12 2Z"/></svg>Avaliações</a>`:''}</div>`:''}
+  <div class="spotlight-metrics">
+    <div class="spotlight-metrics-head">
+      <span>📊 Desempenho</span>
+      <span class="spotlight-update-date">Última atualização: <b>${esc(st.lastDateBR)}</b></span>
+    </div>
+    <div class="spotlight-metrics-grid" style="grid-template-columns:${showClicks?'1.35fr .85fr':'1fr'}">
+      <div class="spotlight-metric-box" style="padding:11px 12px;gap:5px">
+        <div style="font-size:.73rem;color:var(--text);line-height:1.4;font-weight:600">
+          ${totalVerb} <span class="spotlight-metric-val ${totalClass}" style="font-size:.92rem">${totalAbs}</span> seguidores ${periodLabel}.
+        </div>
+        <div class="spotlight-metric-lbl" style="font-size:.68rem;color:var(--soft)">
+          Média de <b class="spotlight-metric-val ${deltaClass}" style="font-size:.78rem">${deltaSign}${st.followerDelta.toLocaleString('pt-BR')}</b> seguidores por mês.
+        </div>
+      </div>
+      ${showClicks?`<div class="spotlight-metric-box">
+        <div class="spotlight-metric-val is-blue" id="spotlightClicksVal">${st.monthClicks.toLocaleString('pt-BR')}</div>
+        <div class="spotlight-metric-lbl">Cliques recebidos no mês</div>
+      </div>`:''}
+    </div>
+  </div>
+  </div><div class="dir-links">${linkButton(e.instagram,'instagram','Instagram').replace('<a ','<a data-contact="instagram" ')}${linkButton(e.whatsapp,'whatsapp','WhatsApp').replace('<a ','<a data-contact="whatsapp" ')}${linkButton(e.site,'site','Site').replace('<a ','<a data-contact="site" ')}${linkButton(e.facebook,'facebook','Facebook').replace('<a ','<a data-contact="facebook" ')}${googleLinkButton(e.empresa)}${locations.some(l=>l.link)?`<a class="dir-link location-link" href="${esc(loc?.link||locations.find(l=>l.link)?.link||'')}" target="_blank" rel="noopener noreferrer" aria-label="Localização" title="${esc(loc?.nome||'Localização')}" data-location-icon style="--location-color:${locationColor(locIdx)}">${iconSvg('location')}</a>`:''}</div></article>`;
+
+  const spCard=wrap.querySelector('.dir-card');
+  if(spCard){
+    spCard._business=e;
+    spCard._locations=locations;
+    spCard._locationIndex=locIdx;
+    applyLocation(spCard,locIdx);
+  }
+  backdrop.setAttribute('aria-hidden','false');
+  document.body.style.overflow='hidden';
+  requestAnimationFrame(()=>backdrop.classList.add('open'));
+}
+function closeCardSpotlight(){
+  const backdrop=$('cardSpotlightBackdrop');
+  if(!backdrop||!backdrop.classList.contains('open'))return;
+  backdrop.classList.remove('open');
+  backdrop.setAttribute('aria-hidden','true');
+  document.body.style.overflow='';
+  activeSpotlightCompany=null;
+}
+$('cardSpotlightBackdrop')?.addEventListener('click',e=>{
+  if(e.target.id==='cardSpotlightBackdrop'||e.target.closest('.js-close-spotlight')){
+    e.preventDefault();
+    closeCardSpotlight();
+    return;
+  }
+  const link=e.target.closest('a.dir-link, a.card-rating');
+  if(link){
+    const card=link.closest('.dir-card');
+    const biz=card?._business;
+    if(biz&&biz.empresa){
+      let tipo='site';
+      if(link.dataset.contact)tipo=link.dataset.contact;
+      else if(link.classList.contains('google-link'))tipo='google';
+      else if(link.classList.contains('location-link')||link.hasAttribute('data-location-icon'))tipo='localizacao';
+      else if(link.classList.contains('card-rating'))tipo='avaliacoes';
+      trackCompanyClick(biz.empresa,tipo);
+      const st=getSpotlightStats(biz);
+      const clEl=$('spotlightClicksVal');
+      if(clEl)clEl.textContent=st.monthClicks.toLocaleString('pt-BR');
+    }
+  }
+});
+window.addEventListener('keydown',e=>{if(e.key==='Escape')closeCardSpotlight()});
+
+async function loadData(parsed){DATA=norm(parsed);try{localStorage.setItem('guiaSobralenseData',JSON.stringify(DATA))}catch(e){}applySiteBrandLogo();syncAiSearchVisibility();syncOnlineCounterVisibility();syncSpotlightVisibility();refreshCats();refreshNeighborhoods();renderCategorySlider();renderCategoriesPage();render()}
 $('openData').onclick=()=>{$('jsonFile').value='';$('jsonFile').click()};
 $('jsonFile').onchange=async e=>{const f=e.target.files&&e.target.files[0];if(!f)return;try{const parsed=JSON.parse((await f.text()).replace(/^\uFEFF/, '').trim());if(!parsed||typeof parsed!=='object'||!Array.isArray(parsed.empresas))throw new Error('O arquivo não possui a estrutura esperada.');await loadData(parsed)}catch(err){$('count').textContent='Erro ao carregar dados.json';$('grid').innerHTML='<div class="empty"><strong>Arquivo JSON inválido.</strong>'+esc(err.message)+'</div>'}};
 window.addEventListener('storage',e=>{if(e.key==='guiaSobralenseData'&&e.newValue){try{loadData(JSON.parse(e.newValue))}catch(err){}}});
