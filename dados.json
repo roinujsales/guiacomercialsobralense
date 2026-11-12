@@ -203,12 +203,13 @@
     "GRÁFICA": "icones/grafica.png",
     "ÓTICA": "icones/otica.png",
     "LOJA DE CELULAR": "icones/celular.png",
-    "COMUNICAÇÃO VISUAL": "",
-    "BRINDES": "",
+    "COMUNICAÇÃO VISUAL": "icones/comunicacao_visual.png",
+    "BRINDES": "icones/brindes.png",
     "CONCESSIONÁRIA": "",
-    "CALÇADOS": "",
-    "MÓVEIS PLANEJADOS": "",
-    "RESTAURANTE": ""
+    "CALÇADOS": "icones/calcados.png",
+    "MÓVEIS PLANEJADOS": "icones/moveis_planejados.png",
+    "RESTAURANTE": "",
+    "MATERIAL DE CONSTRUÇÃO": "icones/material_de_construcao.png"
   },
   "categorias_slider": [
     "FARMÁCIA",
@@ -216,7 +217,11 @@
     "AUTOESCOLA",
     "SUPLEMENTO",
     "ÓTICA",
-    "LOJA DE CELULAR"
+    "LOJA DE CELULAR",
+    "MATERIAL DE CONSTRUÇÃO",
+    "COMUNICAÇÃO VISUAL",
+    "CALÇADOS",
+    "BRINDES"
   ],
   "configuracoes": {
     "logo_site": "logotipo/guia_sobralense_logo.svg",
@@ -1219,15 +1224,13 @@
     },
     {
       "empresa": "DUBEM SUPLEMENTOS",
+      "logo": "empresas/dubem_suplementos.webp",
       "categoria_1": "SUPLEMENTO",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
-      "instagram": "https://www.instagram.com/dubemsuplementos",
-      "logo": "empresas/dubem_suplementos.webp",
       "descricao": "",
-      "palavras_chave": "suplementos, loja de suplementos, suplementação esportiva, nutrição esportiva, whey protein, whey isolado, whey concentrado, whey hidrolisado, creatina, pre-treino, bcaa, glutamina, hipercalórico, queimador de gordura, termogênico, emagrecedores, colágeno, colágeno hidrolisado, multivitamínico, vitaminas, vitamina c, vitamina d, ômega 3, zinco, magnésio, albumina, caseína, pasta de amendoim, barras de proteína, aminoácidos, suplementos para ganho de massa, suplementos para emagrecimento, performance física, hipertrofia",
       "palavras_chave_personalizadas": "",
+      "palavras_chave": "suplementos, loja de suplementos, suplementação esportiva, nutrição esportiva, whey protein, whey isolado, whey concentrado, whey hidrolisado, creatina, pre-treino, bcaa, glutamina, hipercalórico, queimador de gordura, termogênico, emagrecedores, colágeno, colágeno hidrolisado, multivitamínico, vitaminas, vitamina c, vitamina d, ômega 3, zinco, magnésio, albumina, caseína, pasta de amendoim, barras de proteína, aminoácidos, suplementos para ganho de massa, suplementos para emagrecimento, performance física, hipertrofia",
       "info_ia": "",
       "informacoes_investigar": "Não contém registro no Google Maps",
       "data_verificacao": "2026-11-01",
@@ -1276,6 +1279,8 @@
           "periodos": []
         }
       },
+      "situacao": "PENDENTE",
+      "instagram": "https://www.instagram.com/dubemsuplementos",
       "whatsapp": "",
       "site": "",
       "facebook": "",
@@ -2064,7 +2069,7 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-10",
+      "data_verificacao": "2026-11-11",
       "google_maps": true,
       "avaliacoes_link": "",
       "seguidores_instagram": "169687",
@@ -2179,6 +2184,14 @@
           "seguidores": 169687,
           "anterior": 169689,
           "variacao": -2,
+          "percentual": 0
+        },
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 169687,
+          "anterior": 169687,
+          "variacao": 0,
           "percentual": 0
         }
       ],
@@ -3963,10 +3976,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-01",
+      "data_verificacao": "2026-11-11",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "4705",
+      "seguidores_instagram": "5306",
       "horario_compartilhado": true,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -4048,7 +4061,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/ht7Noc76kQYPHLz98",
           "instagram": "",
-          "seguidores_instagram": "",
+          "seguidores_instagram": "5306",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -4125,7 +4138,7 @@
           "bairro": "Dom Expedito",
           "link": "https://maps.app.goo.gl/dd29MQrJ9jqvzAgg8",
           "instagram": "",
-          "seguidores_instagram": "",
+          "seguidores_instagram": "5306",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -4208,6 +4221,14 @@
           "anterior": 4705,
           "variacao": 0,
           "percentual": 0
+        },
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 5306,
+          "anterior": 4705,
+          "variacao": 601,
+          "percentual": 12.77
         }
       ],
       "cliques": {
@@ -7014,15 +7035,13 @@
     },
     {
       "empresa": "ÓTICA JARY",
+      "logo": "empresas/otica_jary.webp",
       "categoria_1": "ÓTICA",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
-      "instagram": "https://www.instagram.com/otica_jary",
-      "logo": "empresas/otica_jary.webp",
       "descricao": "Cuidado da sua visão com estilo há 6 anos!",
-      "palavras_chave": "ótica, óticas, loja de ótica, óculos, óculos de grau, óculos de sol, armações, armação de óculos, lentes, lentes de grau, lentes de contato, lentes multifocais, lentes bifocais, lentes antirreflexo, lentes fotossensíveis, transition, óculos escuros, armações masculinas, armações femininas, armações infantis, óculos de leitura, exames de vista, consulta de vista, optometria, armação de acetato, armação de titânio, armação de metal, proteção uv, cordão para óculos, estojo para óculos, limpa lentes, flanela de microfibra, manutenção de óculos, ajuste de armação",
       "palavras_chave_personalizadas": "",
+      "palavras_chave": "ótica, óticas, loja de ótica, óculos, óculos de grau, óculos de sol, armações, armação de óculos, lentes, lentes de grau, lentes de contato, lentes multifocais, lentes bifocais, lentes antirreflexo, lentes fotossensíveis, transition, óculos escuros, armações masculinas, armações femininas, armações infantis, óculos de leitura, exames de vista, consulta de vista, optometria, armação de acetato, armação de titânio, armação de metal, proteção uv, cordão para óculos, estojo para óculos, limpa lentes, flanela de microfibra, manutenção de óculos, ajuste de armação",
       "info_ia": "",
       "informacoes_investigar": "",
       "data_verificacao": "2026-11-05",
@@ -7071,6 +7090,8 @@
           "periodos": []
         }
       },
+      "situacao": "POSTADO",
+      "instagram": "https://www.instagram.com/otica_jary",
       "whatsapp": "",
       "site": "",
       "facebook": "",
@@ -11194,17 +11215,15 @@
     },
     {
       "empresa": "ALPHA SUPLEMENTOS",
+      "logo": "empresas/alpha_suplementos.webp",
       "categoria_1": "SUPLEMENTO",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
-      "instagram": "https://www.instagram.com/alphasuplementosce",
-      "logo": "empresas/alpha_suplementos.webp",
       "descricao": "",
-      "palavras_chave": "suplementos, loja de suplementos, suplementação esportiva, nutrição esportiva, whey protein, whey isolado, whey concentrado, whey hidrolisado, creatina, pre-treino, bcaa, glutamina, hipercalórico, queimador de gordura, termogênico, emagrecedores, colágeno, colágeno hidrolisado, multivitamínico, vitaminas, vitamina c, vitamina d, ômega 3, zinco, magnésio, albumina, caseína, pasta de amendoim, barras de proteína, aminoácidos, suplementos para ganho de massa, suplementos para emagrecimento, performance física, hipertrofia",
       "palavras_chave_personalizadas": "",
+      "palavras_chave": "suplementos, loja de suplementos, suplementação esportiva, nutrição esportiva, whey protein, whey isolado, whey concentrado, whey hidrolisado, creatina, pre-treino, bcaa, glutamina, hipercalórico, queimador de gordura, termogênico, emagrecedores, colágeno, colágeno hidrolisado, multivitamínico, vitaminas, vitamina c, vitamina d, ômega 3, zinco, magnésio, albumina, caseína, pasta de amendoim, barras de proteína, aminoácidos, suplementos para ganho de massa, suplementos para emagrecimento, performance física, hipertrofia",
       "info_ia": "",
-      "informacoes_investigar": "",
+      "informacoes_investigar": "Empresa provavelmente fechou suas operações em Sobral.",
       "data_verificacao": "",
       "google_maps": false,
       "avaliacoes_link": "",
@@ -11251,6 +11270,8 @@
           "periodos": []
         }
       },
+      "situacao": "PENDENTE",
+      "instagram": "https://www.instagram.com/alphasuplementosce",
       "whatsapp": "",
       "site": "",
       "facebook": "",
@@ -25059,10 +25080,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "Sem horário no Google maps.",
-      "data_verificacao": "2026-11-02",
+      "data_verificacao": "2026-11-11",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "23977",
+      "seguidores_instagram": "24245",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -25075,34 +25096,64 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "12:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
@@ -25114,7 +25165,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/31bNTPbuVWmdFSeM8",
           "instagram": "",
-          "seguidores_instagram": "",
+          "seguidores_instagram": "24245",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -25125,34 +25176,64 @@
               "periodos": []
             },
             "segunda": {
-              "aberto": false,
+              "aberto": true,
               "vinte_quatro_horas": false,
-              "periodos": []
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
             },
             "terca": {
-              "aberto": false,
+              "aberto": true,
               "vinte_quatro_horas": false,
-              "periodos": []
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
             },
             "quarta": {
-              "aberto": false,
+              "aberto": true,
               "vinte_quatro_horas": false,
-              "periodos": []
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
             },
             "quinta": {
-              "aberto": false,
+              "aberto": true,
               "vinte_quatro_horas": false,
-              "periodos": []
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
             },
             "sexta": {
-              "aberto": false,
+              "aberto": true,
               "vinte_quatro_horas": false,
-              "periodos": []
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
             },
             "sabado": {
-              "aberto": false,
+              "aberto": true,
               "vinte_quatro_horas": false,
-              "periodos": []
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "12:00"
+                }
+              ]
             }
           }
         }
@@ -25167,6 +25248,14 @@
           "anterior": 23977,
           "variacao": 0,
           "percentual": 0
+        },
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 24245,
+          "anterior": 23977,
+          "variacao": 268,
+          "percentual": 1.12
         }
       ],
       "cliques": {
@@ -26264,10 +26353,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-10",
+      "data_verificacao": "2026-11-11",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "274661",
+      "seguidores_instagram": "274678",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -26354,7 +26443,7 @@
           "bairro": "Dom Expedito",
           "link": "https://maps.app.goo.gl/pdHPyAqR7KEpVWvq9",
           "instagram": "",
-          "seguidores_instagram": "274661",
+          "seguidores_instagram": "274678",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -26442,6 +26531,14 @@
           "anterior": 274661,
           "variacao": 0,
           "percentual": 0
+        },
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 274678,
+          "anterior": 274661,
+          "variacao": 17,
+          "percentual": 0.01
         }
       ],
       "cliques": {
@@ -27143,10 +27240,10 @@
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "2026-11-10",
+      "data_verificacao": "2026-11-11",
       "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "141187",
+      "seguidores_instagram": "141201",
       "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
@@ -27233,7 +27330,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/mjxbBuBR1YxMPE64A",
           "instagram": "",
-          "seguidores_instagram": "141187",
+          "seguidores_instagram": "141201",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -27315,7 +27412,7 @@
           "bairro": "Centro",
           "link": "https://maps.app.goo.gl/e2ZBXGwDh2XmW7af7",
           "instagram": "",
-          "seguidores_instagram": "141187",
+          "seguidores_instagram": "141201",
           "whatsapp": "",
           "site": "",
           "facebook": "",
@@ -27398,6 +27495,14 @@
           "anterior": 141187,
           "variacao": 0,
           "percentual": 0
+        },
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 141201,
+          "anterior": 141187,
+          "variacao": 14,
+          "percentual": 0.01
         }
       ],
       "cliques": {
@@ -28826,23 +28931,21 @@
       }
     },
     {
-      "empresa": "APPLE EXPRESS",
+      "empresa": "APPLE EXPRESS SPECIALIST",
+      "logo": "empresas/apple_express.webp",
       "categoria_1": "LOJA DE CELULAR",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
-      "instagram": "https://www.instagram.com/appleexpresssobral",
-      "logo": "",
       "descricao": "",
-      "palavras_chave": "",
       "palavras_chave_personalizadas": "",
+      "palavras_chave": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-11",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "7827",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -28884,13 +28987,102 @@
           "periodos": []
         }
       },
+      "situacao": "POSTADO",
+      "instagram": "https://www.instagram.com/appleexpresssobral",
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Centro",
+          "link": "https://maps.app.goo.gl/hV4zTS1h9YiS8zjy6",
+          "instagram": "",
+          "seguidores_instagram": "7827",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "19:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "22:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "22:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "15:00"
+                }
+              ]
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 7827,
+          "anterior": 7827,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -30012,22 +30204,20 @@
     },
     {
       "empresa": "ANDERSON TALENTOS",
+      "logo": "empresas/anderson_talentos.webp",
       "categoria_1": "MOTO PEÇAS",
       "categoria_2": "OFICINA DE MOTO",
       "categoria_3": "",
-      "situacao": "PENDENTE",
-      "instagram": "https://www.instagram.com/andersontalentos1",
-      "logo": "",
-      "descricao": "",
-      "palavras_chave": "",
+      "descricao": "Mecânica, estofados, pinturas, tuning e capacetes.",
       "palavras_chave_personalizadas": "",
+      "palavras_chave": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-11",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "12533",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -30039,43 +30229,162 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "14:00"
+            }
+          ]
         }
       },
+      "situacao": "POSTADO",
+      "instagram": "https://www.instagram.com/andersontalentos1",
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Centro",
+          "link": "https://maps.app.goo.gl/wfmNAYLuk1XYvzbu5",
+          "instagram": "",
+          "seguidores_instagram": "12533",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "14:00"
+                }
+              ]
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-11",
+          "mes": "2026-11",
+          "seguidores": 12533,
+          "anterior": 12533,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
