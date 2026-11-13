@@ -1079,6 +1079,7 @@ function syncSpotlightVisibility(){
 }
 function getSpotlightStats(e){
   const rawHist=Array.isArray(e?.historico_seguidores)?e.historico_seguidores.filter(h=>h&&typeof h==='object'):[];
+  // O histórico guarda até 10 atualizações (para o Dashboard), mas o card público exibe só as 5 mais recentes
   const hist=rawHist.slice(-5);
   const firstSnap=hist.length?hist[0]:null;
   const lastSnap=hist.length?hist[hist.length-1]:null;
