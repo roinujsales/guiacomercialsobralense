@@ -126,7 +126,7 @@
     "FARMÁCIA": "farmácia, farmácias, drogaria, drogarias, remédios, medicamentos, genéricos, medicamentos genéricos, remédio controlado, receita médica, farmácia popular, vitaminas, produtos de higiene, cosméticos, dermocosméticos, protetor solar, fraldas, cuidados com o bebê, fralda geriátrica, curativos, gaze, esparadrapo, antisséptico, álcool 70, termômetro, aparelho de pressão, medidor de glicose, teste de gravidez, primeiros socorros, produtos ortopédicos, analgésicos, antitérmicos, anti-inflamatórios, antibióticos, antialérgicos, entrega de remédio, teleentrega farmácia, delivery de farmácia",
     "BRINDES": "brindes, brindes personalizados, presentes personalizados, lembrancinhas, brindes corporativos, brindes para empresas, artigos personalizados, canetas personalizadas, canecas personalizadas, canecas de porcelana, caneca de chopp, copos personalizados, copo twister, copo long drink, copos stanley personalizados, tirantes, squeezes, garrafas personalizadas, chaveiros personalizados, mochilas personalizadas, sacolas ecobag, ecobags, bonés personalizados, camisetas personalizadas, blocos de anotações, cadernos personalizados, agendas personalizadas, agendas corporativas, canetas de metal, kits corporativos, kits de boas-vindas, kit onboarding, pen drives personalizados, power banks personalizados, nécessaires personalizadas, almofadas personalizadas, taças personalizadas, brindes promocionais, brindes para eventos, lembrancinhas de aniversário, lembrancinhas de casamento, mimos para clientes",
     "MATERIAL DE CONSTRUÇÃO": "materiais de construção, loja de construção, reforma, obra, construção civil, cimento, cal, tijolo, bloco de concreto, areia, brita, argamassa, refratário, tubos e conexões, pvc, hidráulica, elétrica, fios, cabos, tomadas, disjuntores, conduíte, caixas d'água, telhas, calhas, impermeabilizante, ferragens, parafusos, pregos, buchas, vigas, vergalhões, ferramentas, carriola, pá, betoneira, pisos, revestimentos, cerâmica, porcelanato, massa corrida",
-    "PET SHOP": "",
+    "PET SHOP": "pet shop, loja de animais, banho e tosa, ração para cachorro, ração para gato, produtos pet, acessórios pet, brinquedos para pet, coleira para cães, caminha para pet, petiscos para animais, medicamentos veterinários, antipulgas, vermífugo, tosa higiênica, hidratação para pelos, taxi dog, creche para cães, hotel para pets, consulta veterinária, vacina para pets, cirurgia veterinária, exames para animais, areia higiênica, comedouro para pet, bebedouro para pet, gaiola para pássaros, aquário e peixes, rações especiais, tosador profissional, emergência veterinária, internação animal",
     "AGROPECUÁRIA": "",
     "VESTUÁRIO": "",
     "ÓTICA": "ótica, óticas, loja de ótica, óculos, óculos de grau, óculos de sol, armações, armação de óculos, lentes, lentes de grau, lentes de contato, lentes multifocais, lentes bifocais, lentes antirreflexo, lentes fotossensíveis, transition, óculos escuros, armações masculinas, armações femininas, armações infantis, óculos de leitura, exames de vista, consulta de vista, optometria, armação de acetato, armação de titânio, armação de metal, proteção uv, cordão para óculos, estojo para óculos, limpa lentes, flanela de microfibra, manutenção de óculos, ajuste de armação",
@@ -138,7 +138,7 @@
     "LAVANDERIA": "",
     "HOME CENTER": "",
     "MADEREIRA": "",
-    "OFICINA DE MOTO": "",
+    "OFICINA DE MOTO": "oficina de moto, conserto de moto, reparo de moto, mecânica de motos, manutenção de moto, revisão de moto, troca de óleo moto, pneu de moto, borracharia moto, elétrica de moto, freio de moto, motor de moto, suspensão de moto, embreagem de moto, injeção eletrônica moto, carburador moto, limpeza de bico moto, troca de pastilha moto, troca de corrente moto, regulagem de moto, diagnóstico moto, peças para moto, acessórios para moto, bateria de moto, mecânico de moto, serviço de moto, balanceamento de pneu moto, alinhamento de roda moto, conserto de pneu moto, escapamento de moto, retífica de motor de moto,",
     "MOTO PEÇAS": "moto peças, peças para moto, acessórios para moto, loja de moto peças, pneu de moto, capacete moto, óleo de motor moto, bateria moto, pastilha de freio moto, vela de ignição moto, filtro de ar moto, corrente de moto, relação de moto, escapamento moto, manete de moto, retrovisor moto, farol de moto, seta de moto, câmera de ar moto, kit cilindro moto, amortecedor moto, guidão moto, cabo de embreagem, cabo de acelerador, lâmpada de moto, baú para moto, jaqueta de moto, luva de moto, botas de moto, comprar peças de moto, peças de moto baratas, distribuidora de moto peças, autopeças para motos, peças e acessórios para moto, pneus para motos",
     "AR CONDICIONADO": "",
     "MÓVEIS": "",
@@ -194,7 +194,7 @@
     "CURSOS PROFISSIONALIZANTES": "",
     "PRODUTO DE LIMPEZA": "",
     "FILTROS E PURIFICADOR DE ÁGUA": "",
-    "PROTEÇÃO VEICULAR": "",
+    "PROTEÇÃO VEICULAR": "proteção veicular, associação veicular, cobertura auto, seguro de carro, assistência 24h, roubo e furto, colisão veicular, incêndio veicular, perda total, guincho 24 horas, carro reserva, rastreador para carro, monitoramento veicular, proteção contra terceiros, proteção para motos, proteção para caminhões, proteção para frotas",
     "ACESSÓRIO AUTOMOTIVO": "acessórios automotivos, loja de acessórios para carros, autopeças, som automotivo, alto-falante, subwoofers, centrais multimídia, rádio para carro, insulfilm, película de controle solar, capa para banco, capa de volante, tapete automotivo, tapete emborrachado, lâmpada led automotiva, super led, farol de milha, engate para reboque, rack de teto, bagageiro, calha de chuva, alarme automotivo, rastreador, travamento elétrico, sensor de ré, câmera de ré, palheta de parabrisa, carregador veicular, suporte para celular, produtos de estética automotiva, cera para carro, pretinho para pneu, aromatizante automotivo",
     "LOCAÇÃO DE EQUIPAMENTOS E FERRAMENTAS": "",
     "PROTEÇÃO PATRIMONIAL": "proteção patrimonial, segurança patrimonial, blindagem patrimonial, holding familiar, planejamento sucessório, gestão de patrimônio, advogado patrimonial, consultoria patrimonial, assessoria patrimonial, proteção de bens, herança e sucessão, inventário e partilha, testamento, doação de bens, usufruto, reorganização patrimonial, planejamento tributário patrimonial, sucessão empresarial, proteção contra dívidas, resguardo patrimonial, salvaguarda patrimonial, como proteger patrimônio, evitar inventário, planejamento sucessório sobral, holding familiar sobral, advogado patrimonial sobral, consultoria patrimonial sobral, proteção de bens sobral, segurança jurídica patrimonial, otimização tributária patrimonial, planejamento financeiro patrimonial, gestão de riscos patrimoniais, proteção de herança, estruturação patrimonial, defesa de bens"
@@ -222,7 +222,10 @@
     "PROVEDOR DE INTERNET": "",
     "ASSISTÊNCIA TÉCNICA DE CELULAR": "",
     "HAMBURGUERIA": "",
-    "PROTEÇÃO PATRIMONIAL": ""
+    "PROTEÇÃO PATRIMONIAL": "",
+    "OFICINA DE MOTO": "",
+    "PROTEÇÃO VEICULAR": "",
+    "PET SHOP": ""
   },
   "categorias_slider": [
     "FARMÁCIA",
@@ -261,7 +264,7 @@
       "instagram": "https://www.instagram.com/lojamarciomotos",
       "logo": "empresas/marcio_motos.webp",
       "descricao": "Tudo que sua moto precisa em um só lugar.",
-      "palavras_chave": "moto peças, peças para moto, acessórios para moto, loja de moto peças, pneu de moto, capacete moto, óleo de motor moto, bateria moto, pastilha de freio moto, vela de ignição moto, filtro de ar moto, corrente de moto, relação de moto, escapamento moto, manete de moto, retrovisor moto, farol de moto, seta de moto, câmera de ar moto, kit cilindro moto, amortecedor moto, guidão moto, cabo de embreagem, cabo de acelerador, lâmpada de moto, baú para moto, jaqueta de moto, luva de moto, botas de moto, comprar peças de moto, peças de moto baratas, distribuidora de moto peças, autopeças para motos, peças e acessórios para moto, pneus para motos",
+      "palavras_chave": "oficina de moto, conserto de moto, reparo de moto, mecânica de motos, manutenção de moto, revisão de moto, troca de óleo moto, pneu de moto, borracharia moto, elétrica de moto, freio de moto, motor de moto, suspensão de moto, embreagem de moto, injeção eletrônica moto, carburador moto, limpeza de bico moto, troca de pastilha moto, troca de corrente moto, regulagem de moto, diagnóstico moto, peças para moto, acessórios para moto, bateria de moto, mecânico de moto, serviço de moto, balanceamento de pneu moto, alinhamento de roda moto, conserto de pneu moto, escapamento de moto, retífica de motor de moto, moto peças, loja de moto peças, capacete moto, óleo de motor moto, bateria moto, pastilha de freio moto, vela de ignição moto, filtro de ar moto, corrente de moto, relação de moto, escapamento moto, manete de moto, retrovisor moto, farol de moto, seta de moto, câmera de ar moto, kit cilindro moto, amortecedor moto, guidão moto, cabo de embreagem, cabo de acelerador, lâmpada de moto, baú para moto, jaqueta de moto, luva de moto, botas de moto, comprar peças de moto, peças de moto baratas, distribuidora de moto peças, autopeças para motos, peças e acessórios para moto, pneus para motos",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -8836,7 +8839,7 @@
       "instagram": "https://www.instagram.com/casadocamposobralpeteagro",
       "logo": "empresas/casa_do_campo.webp",
       "descricao": "",
-      "palavras_chave": "",
+      "palavras_chave": "pet shop, loja de animais, banho e tosa, ração para cachorro, ração para gato, produtos pet, acessórios pet, brinquedos para pet, coleira para cães, caminha para pet, petiscos para animais, medicamentos veterinários, antipulgas, vermífugo, tosa higiênica, hidratação para pelos, taxi dog, creche para cães, hotel para pets, consulta veterinária, vacina para pets, cirurgia veterinária, exames para animais, areia higiênica, comedouro para pet, bebedouro para pet, gaiola para pássaros, aquário e peixes, rações especiais, tosador profissional, emergência veterinária, internação animal",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "Acredito que o horário no Google maps está errado.",
@@ -9002,7 +9005,7 @@
       "instagram": "https://www.instagram.com/sobralpatascentro",
       "logo": "empresas/sobral_patas.webp",
       "descricao": "Produtos para saúde e lazer do seu PET.",
-      "palavras_chave": "",
+      "palavras_chave": "pet shop, loja de animais, banho e tosa, ração para cachorro, ração para gato, produtos pet, acessórios pet, brinquedos para pet, coleira para cães, caminha para pet, petiscos para animais, medicamentos veterinários, antipulgas, vermífugo, tosa higiênica, hidratação para pelos, taxi dog, creche para cães, hotel para pets, consulta veterinária, vacina para pets, cirurgia veterinária, exames para animais, areia higiênica, comedouro para pet, bebedouro para pet, gaiola para pássaros, aquário e peixes, rações especiais, tosador profissional, emergência veterinária, internação animal",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -9280,7 +9283,7 @@
       "instagram": "https://www.instagram.com/centrodasracoes",
       "logo": "empresas/centro_das_racoes.webp",
       "descricao": "",
-      "palavras_chave": "",
+      "palavras_chave": "pet shop, loja de animais, banho e tosa, ração para cachorro, ração para gato, produtos pet, acessórios pet, brinquedos para pet, coleira para cães, caminha para pet, petiscos para animais, medicamentos veterinários, antipulgas, vermífugo, tosa higiênica, hidratação para pelos, taxi dog, creche para cães, hotel para pets, consulta veterinária, vacina para pets, cirurgia veterinária, exames para animais, areia higiênica, comedouro para pet, bebedouro para pet, gaiola para pássaros, aquário e peixes, rações especiais, tosador profissional, emergência veterinária, internação animal",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -17436,7 +17439,7 @@
       "instagram": "https://www.instagram.com/steniomotos",
       "logo": "empresas/stenio_motos.webp",
       "descricao": "Peças, acessórios & serviços em geral.",
-      "palavras_chave": "moto peças, peças para moto, acessórios para moto, loja de moto peças, pneu de moto, capacete moto, óleo de motor moto, bateria moto, pastilha de freio moto, vela de ignição moto, filtro de ar moto, corrente de moto, relação de moto, escapamento moto, manete de moto, retrovisor moto, farol de moto, seta de moto, câmera de ar moto, kit cilindro moto, amortecedor moto, guidão moto, cabo de embreagem, cabo de acelerador, lâmpada de moto, baú para moto, jaqueta de moto, luva de moto, botas de moto, comprar peças de moto, peças de moto baratas, distribuidora de moto peças, autopeças para motos, peças e acessórios para moto, pneus para motos",
+      "palavras_chave": "moto peças, peças para moto, acessórios para moto, loja de moto peças, pneu de moto, capacete moto, óleo de motor moto, bateria moto, pastilha de freio moto, vela de ignição moto, filtro de ar moto, corrente de moto, relação de moto, escapamento moto, manete de moto, retrovisor moto, farol de moto, seta de moto, câmera de ar moto, kit cilindro moto, amortecedor moto, guidão moto, cabo de embreagem, cabo de acelerador, lâmpada de moto, baú para moto, jaqueta de moto, luva de moto, botas de moto, comprar peças de moto, peças de moto baratas, distribuidora de moto peças, autopeças para motos, peças e acessórios para moto, pneus para motos, oficina de moto, conserto de moto, reparo de moto, mecânica de motos, manutenção de moto, revisão de moto, troca de óleo moto, borracharia moto, elétrica de moto, freio de moto, motor de moto, suspensão de moto, embreagem de moto, injeção eletrônica moto, carburador moto, limpeza de bico moto, troca de pastilha moto, troca de corrente moto, regulagem de moto, diagnóstico moto, bateria de moto, mecânico de moto, serviço de moto, balanceamento de pneu moto, alinhamento de roda moto, conserto de pneu moto, escapamento de moto, retífica de motor de moto",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -29412,23 +29415,23 @@
       }
     },
     {
-      "empresa": "KI LIMPO",
+      "empresa": "KILIMPO",
       "categoria_1": "PRODUTO DE LIMPEZA",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/kilimpo",
-      "logo": "",
-      "descricao": "",
+      "logo": "empresas/kilimpo.webp",
+      "descricao": "Especialistas em produtos de limpeza.",
       "palavras_chave": "",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-21",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "29893",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -29440,43 +29443,200 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "12:00"
+            },
+            {
+              "abre": "14:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "12:00"
+            },
+            {
+              "abre": "14:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "12:00"
+            },
+            {
+              "abre": "14:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "12:00"
+            },
+            {
+              "abre": "14:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "12:00"
+            },
+            {
+              "abre": "14:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "13:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Centro",
+          "link": "https://maps.app.goo.gl/TVKuUKRnYKnZryJY9",
+          "instagram": "",
+          "seguidores_instagram": "29893",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "12:00"
+                },
+                {
+                  "abre": "14:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "12:00"
+                },
+                {
+                  "abre": "14:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "12:00"
+                },
+                {
+                  "abre": "14:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "12:00"
+                },
+                {
+                  "abre": "14:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "12:00"
+                },
+                {
+                  "abre": "14:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "13:00"
+                }
+              ]
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-21",
+          "mes": "2026-11",
+          "seguidores": 29893,
+          "anterior": 29893,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -29574,19 +29734,19 @@
       "categoria_1": "PRODUTO DE LIMPEZA",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/prolimpp",
-      "logo": "",
-      "descricao": "",
+      "logo": "empresas/pro_limpp.webp",
+      "descricao": "Produtos de limpeza para pisos, louças, roupas, automotivo e aromatizantes",
       "palavras_chave": "",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-21",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "2026",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -29598,43 +29758,160 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "17:30"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "17:30"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "17:30"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:00",
+              "fecha": "17:30"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "12:30"
+            }
+          ]
         }
       },
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Centro",
+          "link": "https://maps.app.goo.gl/vRm2sUyzGVVkYJDe6",
+          "instagram": "",
+          "seguidores_instagram": "2026",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "17:30"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "17:30"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "17:30"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:00",
+                  "fecha": "17:30"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "12:30"
+                }
+              ]
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-21",
+          "mes": "2026-11",
+          "seguidores": 2026,
+          "anterior": 2026,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -29789,19 +30066,19 @@
       "categoria_1": "SUPLEMENTO",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/_kratos.suplementos",
-      "logo": "",
+      "logo": "empresas/kratos_suplementos.webp",
       "descricao": "",
       "palavras_chave": "suplementos, loja de suplementos, suplementação esportiva, nutrição esportiva, whey protein, whey isolado, whey concentrado, whey hidrolisado, creatina, pre-treino, bcaa, glutamina, hipercalórico, queimador de gordura, termogênico, emagrecedores, colágeno, colágeno hidrolisado, multivitamínico, vitaminas, vitamina c, vitamina d, ômega 3, zinco, magnésio, albumina, caseína, pasta de amendoim, barras de proteína, aminoácidos, suplementos para ganho de massa, suplementos para emagrecimento, performance física, hipertrofia",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
-      "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "informacoes_investigar": "Sem cadastro no Google Maps.",
+      "data_verificacao": "2026-11-21",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "213",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -29846,10 +30123,67 @@
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Distrito Rafael Arruda",
+          "link": "",
+          "instagram": "",
+          "seguidores_instagram": "213",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "terca": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "quarta": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "quinta": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "sexta": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "sabado": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-21",
+          "mes": "2026-11",
+          "seguidores": 213,
+          "anterior": 213,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -30410,19 +30744,19 @@
       "categoria_1": "MÓVEIS PLANEJADOS",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/lumarimoveisplanejados",
-      "logo": "",
-      "descricao": "",
+      "logo": "empresas/lumari_moveis_planejados.webp",
+      "descricao": "Há mais de 15 anos entregando ambientes únicos.",
       "palavras_chave": "móveis planejados, loja de móveis planejados, marcenaria, móveis sob medida, projetos de interiores, design de interiores, móveis sob medida para cozinha, cozinha planejada, armário de cozinha, ilha de cozinha, guarda-roupa planejado, roupeiro planejado, closet sob medida, painel de tv, rack sob medida, home theater, móveis para sala, móveis para quarto, cabeceira planejada, móveis para banheiro, gabinete de banheiro, móveis para escritório, home office planejado, móveis para apartamento pequeno, móveis de mdf, mdf sob medida, marcenaria sob medida, móveis corporativos, móveis para recepção, móveis para área gourmet, churrasqueira planejada, projeto 3d, arquiteto de interiores",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-23",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "2158",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -30434,29 +30768,54 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "17:00"
+            }
+          ]
         },
         "sabado": {
           "aberto": false,
@@ -30467,10 +30826,92 @@
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Campo dos Velhos",
+          "link": "https://maps.app.goo.gl/DuTUF8i4X8jF2CVt5",
+          "instagram": "",
+          "seguidores_instagram": "2158",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "17:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-23",
+          "mes": "2026-11",
+          "seguidores": 2158,
+          "anterior": 2158,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -30692,7 +31133,7 @@
       "palavras_chave": "móveis planejados, loja de móveis planejados, marcenaria, móveis sob medida, projetos de interiores, design de interiores, móveis sob medida para cozinha, cozinha planejada, armário de cozinha, ilha de cozinha, guarda-roupa planejado, roupeiro planejado, closet sob medida, painel de tv, rack sob medida, home theater, móveis para sala, móveis para quarto, cabeceira planejada, móveis para banheiro, gabinete de banheiro, móveis para escritório, home office planejado, móveis para apartamento pequeno, móveis de mdf, mdf sob medida, marcenaria sob medida, móveis corporativos, móveis para recepção, móveis para área gourmet, churrasqueira planejada, projeto 3d, arquiteto de interiores",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
-      "informacoes_investigar": "",
+      "informacoes_investigar": "Empresa não tem mais o instagram disponível.",
       "data_verificacao": "",
       "google_maps": false,
       "avaliacoes_link": "",
@@ -30768,7 +31209,7 @@
       "instagram": "https://www.instagram.com/andersontalentos1",
       "logo": "empresas/anderson_talentos.webp",
       "descricao": "Mecânica, estofados, pinturas, tuning e capacetes.",
-      "palavras_chave": "moto peças, peças para moto, acessórios para moto, loja de moto peças, pneu de moto, capacete moto, óleo de motor moto, bateria moto, pastilha de freio moto, vela de ignição moto, filtro de ar moto, corrente de moto, relação de moto, escapamento moto, manete de moto, retrovisor moto, farol de moto, seta de moto, câmera de ar moto, kit cilindro moto, amortecedor moto, guidão moto, cabo de embreagem, cabo de acelerador, lâmpada de moto, baú para moto, jaqueta de moto, luva de moto, botas de moto, comprar peças de moto, peças de moto baratas, distribuidora de moto peças, autopeças para motos, peças e acessórios para moto, pneus para motos",
+      "palavras_chave": "moto peças, peças para moto, acessórios para moto, loja de moto peças, pneu de moto, capacete moto, óleo de motor moto, bateria moto, pastilha de freio moto, vela de ignição moto, filtro de ar moto, corrente de moto, relação de moto, escapamento moto, manete de moto, retrovisor moto, farol de moto, seta de moto, câmera de ar moto, kit cilindro moto, amortecedor moto, guidão moto, cabo de embreagem, cabo de acelerador, lâmpada de moto, baú para moto, jaqueta de moto, luva de moto, botas de moto, comprar peças de moto, peças de moto baratas, distribuidora de moto peças, autopeças para motos, peças e acessórios para moto, pneus para motos, oficina de moto, conserto de moto, reparo de moto, mecânica de motos, manutenção de moto, revisão de moto, troca de óleo moto, borracharia moto, elétrica de moto, freio de moto, motor de moto, suspensão de moto, embreagem de moto, injeção eletrônica moto, carburador moto, limpeza de bico moto, troca de pastilha moto, troca de corrente moto, regulagem de moto, diagnóstico moto, bateria de moto, mecânico de moto, serviço de moto, balanceamento de pneu moto, alinhamento de roda moto, conserto de pneu moto, escapamento de moto, retífica de motor de moto",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -31577,19 +32018,19 @@
       "categoria_1": "MATERIAL DE CONSTRUÇÃO",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/lojaodasconstrucoes",
-      "logo": "",
+      "logo": "empresas/lojao_das_construcoes.webp",
       "descricao": "",
       "palavras_chave": "materiais de construção, loja de construção, reforma, obra, construção civil, cimento, cal, tijolo, bloco de concreto, areia, brita, argamassa, refratário, tubos e conexões, pvc, hidráulica, elétrica, fios, cabos, tomadas, disjuntores, conduíte, caixas d'água, telhas, calhas, impermeabilizante, ferragens, parafusos, pregos, buchas, vigas, vergalhões, ferramentas, carriola, pá, betoneira, pisos, revestimentos, cerâmica, porcelanato, massa corrida",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-23",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "1077",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -31634,10 +32075,67 @@
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Centro",
+          "link": "https://maps.app.goo.gl/Mgpa5zX5fJPpvphZA",
+          "instagram": "",
+          "seguidores_instagram": "1077",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "terca": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "quarta": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "quinta": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "sexta": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "sabado": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-23",
+          "mes": "2026-11",
+          "seguidores": 1077,
+          "anterior": 1077,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -32181,23 +32679,23 @@
       }
     },
     {
-      "empresa": "MORAES HIDRÁULICA E ELÉTRICA",
+      "empresa": "TH MORAES HIDRÁULICA E ELÉTRICA",
       "categoria_1": "MATERIAL DE CONSTRUÇÃO",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/th.eletrica_hidraulica",
-      "logo": "",
-      "descricao": "",
+      "logo": "empresas/th_moraes_hidraulica_e_eletrica.webp",
+      "descricao": "Sua parceira na construção e reforma!",
       "palavras_chave": "materiais de construção, loja de construção, reforma, obra, construção civil, cimento, cal, tijolo, bloco de concreto, areia, brita, argamassa, refratário, tubos e conexões, pvc, hidráulica, elétrica, fios, cabos, tomadas, disjuntores, conduíte, caixas d'água, telhas, calhas, impermeabilizante, ferragens, parafusos, pregos, buchas, vigas, vergalhões, ferramentas, carriola, pá, betoneira, pisos, revestimentos, cerâmica, porcelanato, massa corrida",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
-      "informacoes_investigar": "",
-      "data_verificacao": "",
+      "informacoes_investigar": "Sem cadastro no Google Maps.",
+      "data_verificacao": "2026-11-23",
       "google_maps": false,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "168",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -32245,7 +32743,16 @@
       "localizacoes": [],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-23",
+          "mes": "2026-11",
+          "seguidores": 168,
+          "anterior": 168,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -32422,19 +32929,19 @@
       "categoria_1": "PROVEDOR DE INTERNET",
       "categoria_2": "",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/nossanet_telecomunicacoes",
-      "logo": "",
-      "descricao": "",
+      "logo": "empresas/nossa_net_telecomunicacoes.webp",
+      "descricao": "Lançamentos e soluções de fibra óptica.",
       "palavras_chave": "internet sobral, provedor sobral, fibra ótica sobral, banda larga sobral, planos de internet sobral, internet residencial sobral, melhor internet sobral, provedor de internet sobral, internet barata sobral, wi-fi sobral, internet fibra, internet rápida, planos fibra ótica, instalação de internet, internet ilimitada, provedor fibra, provedor banda larga, internet para empresas, internet corporativa, conexão de internet, contratar internet, internet estável, internet boa, internet para comércio, internet via rádio sobral, internet gamer sobral, internet rural sobral, internet 5g sobral, internet 4g sobral, provedor de internet ce, internet de qualidade sobral, provedor de internet perto de mim sobral, internet para condomínio, combo internet sobral, velocidade de internet sobral",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-23",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "2003",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -32446,43 +32953,160 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "08:00",
+              "fecha": "12:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Centro",
+          "link": "https://maps.app.goo.gl/AgHT8eMTFQSGEtiYA",
+          "instagram": "",
+          "seguidores_instagram": "2003",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "08:00",
+                  "fecha": "12:00"
+                }
+              ]
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-23",
+          "mes": "2026-11",
+          "seguidores": 2003,
+          "anterior": 2003,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
@@ -32749,7 +33373,7 @@
       "instagram": "https://www.instagram.com/sgprotecaoveicular",
       "logo": "",
       "descricao": "",
-      "palavras_chave": "",
+      "palavras_chave": "proteção veicular, associação veicular, cobertura auto, seguro de carro, assistência 24h, roubo e furto, colisão veicular, incêndio veicular, perda total, guincho 24 horas, carro reserva, rastreador para carro, monitoramento veicular, proteção contra terceiros, proteção para motos, proteção para caminhões, proteção para frotas",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -32828,7 +33452,7 @@
       "instagram": "https://www.instagram.com/uniaoprotecaoveicular",
       "logo": "",
       "descricao": "",
-      "palavras_chave": "",
+      "palavras_chave": "proteção veicular, associação veicular, cobertura auto, seguro de carro, assistência 24h, roubo e furto, colisão veicular, incêndio veicular, perda total, guincho 24 horas, carro reserva, rastreador para carro, monitoramento veicular, proteção contra terceiros, proteção para motos, proteção para caminhões, proteção para frotas",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -32907,7 +33531,7 @@
       "instagram": "https://www.instagram.com/eleven.protecaopatrimonial",
       "logo": "empresas/eleven_11.webp",
       "descricao": "",
-      "palavras_chave": "proteção patrimonial, segurança patrimonial, blindagem patrimonial, holding familiar, planejamento sucessório, gestão de patrimônio, advogado patrimonial, consultoria patrimonial, assessoria patrimonial, proteção de bens, herança e sucessão, inventário e partilha, testamento, doação de bens, usufruto, reorganização patrimonial, planejamento tributário patrimonial, sucessão empresarial, proteção contra dívidas, resguardo patrimonial, salvaguarda patrimonial, como proteger patrimônio, evitar inventário, planejamento sucessório sobral, holding familiar sobral, advogado patrimonial sobral, consultoria patrimonial sobral, proteção de bens sobral, segurança jurídica patrimonial, otimização tributária patrimonial, planejamento financeiro patrimonial, gestão de riscos patrimoniais, proteção de herança, estruturação patrimonial, defesa de bens",
+      "palavras_chave": "proteção patrimonial, segurança patrimonial, blindagem patrimonial, holding familiar, planejamento sucessório, gestão de patrimônio, advogado patrimonial, consultoria patrimonial, assessoria patrimonial, proteção de bens, herança e sucessão, inventário e partilha, testamento, doação de bens, usufruto, reorganização patrimonial, planejamento tributário patrimonial, sucessão empresarial, proteção contra dívidas, resguardo patrimonial, salvaguarda patrimonial, como proteger patrimônio, evitar inventário, planejamento sucessório sobral, holding familiar sobral, advogado patrimonial sobral, consultoria patrimonial sobral, proteção de bens sobral, segurança jurídica patrimonial, otimização tributária patrimonial, planejamento financeiro patrimonial, gestão de riscos patrimoniais, proteção de herança, estruturação patrimonial, defesa de bens, proteção veicular, associação veicular, cobertura auto, seguro de carro, assistência 24h, roubo e furto, colisão veicular, incêndio veicular, perda total, guincho 24 horas, carro reserva, rastreador para carro, monitoramento veicular, proteção contra terceiros, proteção para motos, proteção para caminhões, proteção para frotas",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
@@ -33335,19 +33959,19 @@
       "categoria_1": "MATERIAL DE CONSTRUÇÃO",
       "categoria_2": "ILUMINAÇÃO",
       "categoria_3": "",
-      "situacao": "PENDENTE",
+      "situacao": "POSTADO",
       "instagram": "https://www.instagram.com/heconsobral",
-      "logo": "",
-      "descricao": "",
+      "logo": "empresas/hecon.webp",
+      "descricao": "Tudo em construção e reforma.",
       "palavras_chave": "materiais de construção, loja de construção, reforma, obra, construção civil, cimento, cal, tijolo, bloco de concreto, areia, brita, argamassa, refratário, tubos e conexões, pvc, hidráulica, elétrica, fios, cabos, tomadas, disjuntores, conduíte, caixas d'água, telhas, calhas, impermeabilizante, ferragens, parafusos, pregos, buchas, vigas, vergalhões, ferramentas, carriola, pá, betoneira, pisos, revestimentos, cerâmica, porcelanato, massa corrida, iluminação, loja de iluminação, lâmpadas, iluminação led, fita led, painel led, lustres, pendentes, luminárias, plafons, arandelas, iluminação externa, refletores, spots, trilho eletrificado, abajures, iluminação decorativa, iluminação técnica, lâmpada inteligente, iluminação para jardim, reatores, sensores de presença, interruptores, dimmers, artigos de iluminação",
       "palavras_chave_personalizadas": "",
       "info_ia": "",
       "informacoes_investigar": "",
-      "data_verificacao": "",
-      "google_maps": false,
+      "data_verificacao": "2026-11-21",
+      "google_maps": true,
       "avaliacoes_link": "",
-      "seguidores_instagram": "",
-      "horario_compartilhado": true,
+      "seguidores_instagram": "8080",
+      "horario_compartilhado": false,
       "instagram_compartilhado": true,
       "whatsapp_compartilhado": true,
       "site_compartilhado": true,
@@ -33359,43 +33983,160 @@
           "periodos": []
         },
         "segunda": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "terca": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quarta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "quinta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sexta": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "18:00"
+            }
+          ]
         },
         "sabado": {
-          "aberto": false,
+          "aberto": true,
           "vinte_quatro_horas": false,
-          "periodos": []
+          "periodos": [
+            {
+              "abre": "07:30",
+              "fecha": "13:00"
+            }
+          ]
         }
       },
       "whatsapp": "",
       "site": "",
       "facebook": "",
-      "localizacoes": [],
+      "localizacoes": [
+        {
+          "nome": "",
+          "bairro": "Centro",
+          "link": "https://maps.app.goo.gl/FCBH9dSxso4bqEfy7",
+          "instagram": "",
+          "seguidores_instagram": "8080",
+          "whatsapp": "",
+          "site": "",
+          "facebook": "",
+          "horario_funcionamento": {
+            "domingo": {
+              "aberto": false,
+              "vinte_quatro_horas": false,
+              "periodos": []
+            },
+            "segunda": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "terca": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quarta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "quinta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sexta": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "18:00"
+                }
+              ]
+            },
+            "sabado": {
+              "aberto": true,
+              "vinte_quatro_horas": false,
+              "periodos": [
+                {
+                  "abre": "07:30",
+                  "fecha": "13:00"
+                }
+              ]
+            }
+          }
+        }
+      ],
       "bairro": "",
       "localizacao": "",
-      "historico_seguidores": [],
+      "historico_seguidores": [
+        {
+          "data": "2026-11-21",
+          "mes": "2026-11",
+          "seguidores": 8080,
+          "anterior": 8080,
+          "variacao": 0,
+          "percentual": 0
+        }
+      ],
       "cliques": {
         "total": 0,
         "whatsapp": 0,
